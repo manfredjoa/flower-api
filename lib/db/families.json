@@ -15,7 +15,7 @@
     "orderName": "Asterales",
     "uses": [ "cooking oils", "food", "sweetening agents", "coffee substitutes", "herbal teas" ],
     "description": "Members of the Asteraceae are mostly herbaceous plants, but some shrubs, vines, and trees (such as Lachanodes arborea) do exist. Asteraceae species are generally easy to distinguish from other plants because of their unique inflorescence and other shared characteristics, such as the joined anthers of the stamens.",
-    "plants": [ "chrysanthemum", "daisy", "sunflower", "dandelion", "marigold", "dahlia", "lettuce" ]
+    "plants": [ "chrysanthemum", "common daisy", "common sunflower", "dandelion", "marigold", "dahlia", "lettuce" ]
   },
   {
     "familyName": "Solanaceae",
