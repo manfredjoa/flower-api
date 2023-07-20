@@ -1,0 +1,92 @@
+[
+  {
+    "familyName": "Acanthaceae",
+    "derivation": "greek",
+    "meaning": "thorns",
+    "orderName": "Lamiales",
+    "uses": [ "medicinal" ],
+    "description": "Plants in this family have simple, opposite, decussated leaves with entire (or sometimes toothed, lobed, or spiny) margins, and without stipules. The leaves may contain cystoliths, calcium carbonate concretions, seen as streaks on the surface.",
+    "lowerClassifications": [ "lollipop plant", "polka dot plant", "zebra plant" ]
+  },
+  {
+    "familyName": "Asteraceae",
+    "derivation": "latin",
+    "meaning": "star",
+    "orderName": "Asterales",
+    "uses": [ "cooking oils", "food", "sweetening agents", "coffee substitutes", "herbal teas" ],
+    "description": "Members of the Asteraceae are mostly herbaceous plants, but some shrubs, vines, and trees (such as Lachanodes arborea) do exist. Asteraceae species are generally easy to distinguish from other plants because of their unique inflorescence and other shared characteristics, such as the joined anthers of the stamens.",
+    "lowerClassifications": [ "chrysanthemum", "daisy", "sunflower", "dandelion", "marigold", "dahlia", "lettuce" ]
+  },
+  {
+    "familyName": "Solanaceae",
+    "derivation": "latin",
+    "meaning": "nightshade",
+    "orderName": "Solanales",
+    "uses": [ "food" ],
+    "description": "Plants in the Solanaceae can take the form of herbs, shrubs, trees, vines and lianas, and sometimes epiphytes. They can be annuals, biennials, or perennials, upright or decumbent. Some have subterranean tubers. They do not have laticifers, nor latex, nor coloured saps. They can have a basal or terminal group of leaves or neither of these types. The leaves are generally alternate or alternate to opposed (that is, alternate at the base of the plant and opposed towards the inflorescence). The leaves can be herbaceous, leathery, or transformed into spines.",
+    "lowerClassifications": [ "nightshade", "eggplant", "potato", "tomato" ]
+  },
+  {
+    "familyName": "Rosaceae",
+    "derivation": "latin",
+    "meaning": "rose",
+    "orderName": "Rosales",
+    "uses": [ "food" ],
+    "description": "Rosaceae can be woody trees, shrubs, climbers or herbaceous plants. The leaves are generally arranged spirally, but have an opposite arrangement in some species.Flowers of plants in the rose family are generally described as 'showy'. They are radially symmetrical, and almost always hermaphroditic. The fruits occur in many varieties and were once considered the main characters for the definition of subfamilies amongst Rosaceae, giving rise to a fundamentally artificial subdivision. Many fruits of the family are edible, but their seeds often contain amygdalin, which can release cyanide during digestion if the seed is damaged.",
+    "lowerClassifications": [ "rose", "strawberry", "almond" ]
+  },  
+  {
+    "familyName": "Liliaceae",
+    "derivation": "latin",
+    "meaning": "lily",
+    "orderName": "Liliales",
+    "uses": [ "medicinal", "food" ],
+    "description": "The Liliaceae are characterised as monocotyledonous, perennial, herbaceous, bulbous (or rhizomatous in the case of Medeoleae) flowering plants with simple trichomes (root hairs) and contractile roots. The flowers may be arranged (inflorescence) along the stem, developing from the base, or as a single flower at the tip of the stem, or as a cluster of flowers. They contain both male (androecium) and female (gynoecium) characteristics and are symmetric radially, but sometimes as a mirror image.",
+    "lowerClassifications": [ "lily", "tulip" ]
+  },  
+  {
+    "familyName": "Amaranthaceae",
+    "derivation": "greek",
+    "meaning": "unfading",
+    "orderName": "Caryophyllales",
+    "uses": [ "medicinal", "food" ],
+    "description": "Most species in the Amaranthaceae are annual or perennial herbs or subshrubs; others are shrubs; very few species are vines or trees. Some species are succulent. Many species have stems with thickened nodes. The leaves are simple and mostly alternate, sometimes opposite. They never possess stipules. They are flat or terete, and their shape is extremely variable, with entire or toothed margins.",
+    "lowerClassifications": [ "amaranth", "quinoa" ]
+  },  
+  {
+    "familyName": "Bromeliaceae",
+    "derivation": "person: Olof Bromelius, Swedish doctor and botanist",
+    "meaning": "",
+    "orderName": "Poales",
+    "uses": [ "food", "shelter" ],
+    "description": "Bromeliads are mostly herbaceous perennials, although a few have a more tree-like habit. Many are more or less succulent or have other adaptations to resist drought. Many terrestrial and epiphytic bromeliads have their leaves in the form of vase-shaped rosettes which accumulate water. Individual leaves are not divided and have parallel veins without cross connections. The epidermis of the leaf contains silica.",
+    "lowerClassifications": [ "pineapple", "Bromelia"]
+  },  
+  {
+    "familyName": "Anacardiaceae",
+    "derivation": "greek",
+    "meaning": "heart of the fruit",
+    "orderName": "Sapindales",
+    "uses": [ "food", "lacquer" ],
+    "description": "Trees or shrubs, each has inconspicuous flowers and resinous or milky sap that may be highly poisonous, as in black poisonwood and sometimes foul-smelling. Resin canals located in the inner fibrous bark of the fibrovascular system found in the plant's stems, roots, and leaves are characteristic of all members of this family; resin canals located in the pith are characteristic of many of the cashew family species and several species have them located in the primary cortex or the regular bark. Tannin sacs are also widespread among the family.",
+    "lowerClassifications": [ "cashew", "sumac", "poison oak" ]
+  },  
+  {
+    "familyName": "Caryophyllaceae",
+    "derivation": "greek",
+    "meaning": "clove-leaved",
+    "orderName": "Caryophyllales",
+    "uses": [ "medicinal" ],
+    "description": "Caryophyllaceae, commonly called the pink family or carnation family, is a family of flowering plants. Despite its size and the somewhat doubtful mutual relationships, this family is rather uniform and easily recognizable. Most are herbaceous annuals or perennials, dying off above ground each year. A few species are shrubs or small trees, such as some Acanthophyllum species. Most plants are non-succulent; i.e. having no fleshy stems or leaves.",
+    "lowerClassifications": [ "carnation", "baby's breath" ]
+  },  
+  {
+    "familyName": "Poaceae",
+    "derivation": "greek",
+    "meaning": "fodder",
+    "orderName": "Poales",
+    "uses": [ "food", "construction", "landscaping" ],
+    "description": "Poaceae is a large and nearly ubiquitous family of monocotyledonous flowering plants commonly known as grasses. Grasses may be annual or perennial herbs, generally with the following characteristics: The stems of grasses, called culms, are usually cylindrical (more rarely flattened, but not 3-angled) and are hollow, plugged at the nodes, where the leaves are attached. Flowers of Poaceae are characteristically arranged in spikelets, each having one or more florets.",
+    "lowerClassifications": [ "pampas grass", "corn", "lemongrass" ]
+  }
+]
