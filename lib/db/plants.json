@@ -1,95 +1,11 @@
 [
   {
-    "name": "lollipop plant"
-  },
-  {
-    "name": "polka dot plant"
-  },
-  {
-    "name": "zebra plant"
-  },
-  {
-    "name": "chrysanthemum"
-  },
-  {
-    "name": "daisy"
-  },
-  {
-    "name": "sunflower"
-  },
-  {
-    "name": "dandelion"
-  },
-  {
-    "name": "marigold"
-  },
-  {
-    "name": "dahlia"
-  },
-  {
-    "name": "lettuce"
-  },
-  {
-    "name": "nightshade"
-  },
-  {
-    "name": "eggplant"
-  },
-  {
-    "name": "potato"
-  },
-  {
-    "name": "tomato"
-  },
-  {
-    "name": "rose"
-  },
-  {
-    "name": "strawberry"
-  },
-  {
-    "name": "almond"
-  },
-  {
-    "name": "lily"
-  },
-  {
-    "name": "tulip"
-  },
-  {
-    "name": "amaranth"
-  },
-  {
-    "name": "quinoa"
-  },
-  {
-    "name": "pineapple"
-  },
-  {
-    "name": "bromelia"
-  },
-  {
-    "name": "cashew"
-  },
-  {
-    "name": "sumac"
-  },
-  {
-    "name": "poison oak"
-  },
-  {
-    "name": "carnation"
-  },
-  {
-    "name": "baby's breath"
-  },
-  {
-    "name": "pampas grass"
-  },
-  {
-    "name": "corn"
-  },
-  {
-    "name": "lemongrass"
+    "name": "lollipop plant",
+    "family": "Acanthaceae",
+    "genus": "Pachystachys",
+    "species": "Pachystachys lutea",
+    "description": "Pachystachys lutea, known as the golden shrimp plant or lollipop plant, is a tropical, soft-stemmed evergreen shrub between 0.5 and 2.5 meters tall, native to Peru.[1][2] The zygomorphic, long-throated, short-lived white flowers emerge sequentially from overlapping bright yellow bracts on racemes that are produced throughout the warm months.",
+    "funFact": "The Latin specific epithet lutea means “yellow”.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/PachystachysLuteaOrlando.JPG/440px-PachystachysLuteaOrlando.JPG"
   }
 ]
