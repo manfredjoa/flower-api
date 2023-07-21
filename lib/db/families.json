@@ -42,7 +42,7 @@
     "orderName": "Liliales",
     "uses": [ "medicinal", "food" ],
     "description": "The Liliaceae are characterised as monocotyledonous, perennial, herbaceous, bulbous (or rhizomatous in the case of Medeoleae) flowering genera with simple trichomes (root hairs) and contractile roots. The flowers may be arranged (inflorescence) along the stem, developing from the base, or as a single flower at the tip of the stem, or as a cluster of flowers. They contain both male (androecium) and female (gynoecium) characteristics and are symmetric radially, but sometimes as a mirror image.",
-    "genera": [ "Lilium" ]
+    "genera": [ "Lilium, Tulipa" ]
   },  
   {
     "familyName": "Amaranthaceae",
@@ -50,7 +50,8 @@
     "meaning": "unfading",
     "orderName": "Caryophyllales",
     "uses": [ "medicinal", "food" ],
-    "description": "Most species in the Amaranthaceae are annual or perennial herbs or subshrubs; others are shrubs; very few species are vines or trees. Some species are succulent. Many species have stems with thickened nodes. The leaves are simple and mostly alternate, sometimes opposite. They never possess stipules. They are flat or terete, and their shape is extremely variable, with entire or toothed margins."
+    "description": "Most species in the Amaranthaceae are annual or perennial herbs or subshrubs; others are shrubs; very few species are vines or trees. Some species are succulent. Many species have stems with thickened nodes. The leaves are simple and mostly alternate, sometimes opposite. They never possess stipules. They are flat or terete, and their shape is extremely variable, with entire or toothed margins.",
+    "genera": [ "Amaranthus", "Celosia" ]
   },  
   {
     "familyName": "Bromeliaceae",
@@ -58,7 +59,8 @@
     "meaning": "",
     "orderName": "Poales",
     "uses": [ "food", "shelter" ],
-    "description": "Bromeliads are mostly herbaceous perennials, although a few have a more tree-like habit. Many are more or less succulent or have other adaptations to resist drought. Many terrestrial and epiphytic bromeliads have their leaves in the form of vase-shaped rosettes which accumulate water. Individual leaves are not divided and have parallel veins without cross connections. The epidermis of the leaf contains silica."
+    "description": "Bromeliads are mostly herbaceous perennials, although a few have a more tree-like habit. Many are more or less succulent or have other adaptations to resist drought. Many terrestrial and epiphytic bromeliads have their leaves in the form of vase-shaped rosettes which accumulate water. Individual leaves are not divided and have parallel veins without cross connections. The epidermis of the leaf contains silica.",
+    "genera": [ "Ananas" ]
   },  
   {
     "familyName": "Anacardiaceae",
@@ -66,7 +68,8 @@
     "meaning": "heart of the fruit",
     "orderName": "Sapindales",
     "uses": [ "food", "lacquer" ],
-    "description": "Trees or shrubs, each has inconspicuous flowers and resinous or milky sap that may be highly poisonous, as in black poisonwood and sometimes foul-smelling. Resin canals located in the inner fibrous bark of the fibrovascular system found in the plant's stems, roots, and leaves are characteristic of all members of this family; resin canals located in the pith are characteristic of many of the cashew family species and several species have them located in the primary cortex or the regular bark. Tannin sacs are also widespread among the family."
+    "description": "Trees or shrubs, each has inconspicuous flowers and resinous or milky sap that may be highly poisonous, as in black poisonwood and sometimes foul-smelling. Resin canals located in the inner fibrous bark of the fibrovascular system found in the plant's stems, roots, and leaves are characteristic of all members of this family; resin canals located in the pith are characteristic of many of the cashew family species and several species have them located in the primary cortex or the regular bark. Tannin sacs are also widespread among the family.",
+    "genera": [ "Anacardium", "Toxicodendron" ]
   },  
   {
     "familyName": "Caryophyllaceae",
@@ -74,7 +77,8 @@
     "meaning": "clove-leaved",
     "orderName": "Caryophyllales",
     "uses": [ "medicinal" ],
-    "description": "Caryophyllaceae, commonly called the pink family or carnation family, is a family of flowering genera. Despite its size and the somewhat doubtful mutual relationships, this family is rather uniform and easily recognizable. Most are herbaceous annuals or perennials, dying off above ground each year. A few species are shrubs or small trees, such as some Acanthophyllum species. Most genera are non-succulent; i.e. having no fleshy stems or leaves."
+    "description": "Caryophyllaceae, commonly called the pink family or carnation family, is a family of flowering genera. Despite its size and the somewhat doubtful mutual relationships, this family is rather uniform and easily recognizable. Most are herbaceous annuals or perennials, dying off above ground each year. A few species are shrubs or small trees, such as some Acanthophyllum species. Most genera are non-succulent; i.e. having no fleshy stems or leaves.",
+    "genera": [ "Dianthus", "Gypsophila" ]
   },  
   {
     "familyName": "Poaceae",
@@ -82,6 +86,7 @@
     "meaning": "fodder",
     "orderName": "Poales",
     "uses": [ "food", "construction", "landscaping" ],
-    "description": "Poaceae is a large and nearly ubiquitous family of monocotyledonous flowering genera commonly known as grasses. Grasses may be annual or perennial herbs, generally with the following characteristics: The stems of grasses, called culms, are usually cylindrical (more rarely flattened, but not 3-angled) and are hollow, plugged at the nodes, where the leaves are attached. Flowers of Poaceae are characteristically arranged in spikelets, each having one or more florets."
+    "description": "Poaceae is a large and nearly ubiquitous family of monocotyledonous flowering genera commonly known as grasses. Grasses may be annual or perennial herbs, generally with the following characteristics: The stems of grasses, called culms, are usually cylindrical (more rarely flattened, but not 3-angled) and are hollow, plugged at the nodes, where the leaves are attached. Flowers of Poaceae are characteristically arranged in spikelets, each having one or more florets.",
+    "genera": [ "Cortaderia", "Cymbopogon" ]
   }
 ]
