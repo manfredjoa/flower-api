@@ -89,5 +89,89 @@
     "description": "Fragaria is a genus of flowering plants commonly known as strawberries for their edible fruits. There are more than 20 described species and many hybrids and cultivars. Strawberries are not berries in the botanical sense. The fleshy and edible part of the 'fruit' is a receptacle, and the parts that are sometimes mistakenly called 'seeds' are achenes and therefore the true botanical fruits.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Fragaria_moupinensis.jpg/440px-Fragaria_moupinensis.jpg",
     "species": [ "Fragaria moupinesis", "Fragaria × ananassa (garden strawberry)", "Fragaria daltoniana", "Fragaria vesca (woodland strawberry)", "Fragaria viridis" ]
+  },
+  {
+    "genusName": "Prunus",
+    "familyName": "Rosaceae",
+    "description": "Prunus is a genus of trees and shrubs, which includes (among many others) the fruits plums, cherries, peaches, nectarines, apricots, and almonds. Native to the North American temperate regions, the neotropics of South America, and the paleotropics of Asia and Africa, 430 different species are classified under Prunus. Many members of the genus are widely cultivated for their fruit and for decorative purposes. The fruits of Prunus often contain many phytochemicals and antioxidants. These compounds have properties that have been linked to preventing different diseases and disorders.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Fr%C3%BChling_bl%C3%BChender_Kirschenbaum.jpg/440px-Fr%C3%BChling_bl%C3%BChender_Kirschenbaum.jpg",
+    "species": [ "Prunus cerasus (sour cherry tree)", "Prunus armeniaca (apricot tree)", "Prunus americana (American plum tree", "Prunus fasciculata (wild almond shrub)" ]
+  },
+  {
+    "genusName": "Lilium",
+    "familyName": "Liliaceae",
+    "description": "Lilium is a genus of herbaceous flowering plants growing from bulbs, all with large prominent flowers. They are the true lilies. Many other plants have 'lily' in their common names, but do not belong to the same genus and are therefore not true lilies.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Lilium_candidum_1.jpg/440px-Lilium_candidum_1.jpg",
+    "species": [ "Lilium candidum (Madonna lily)", "Lilium henryi (tiger lily)", "Lilium mackliniae", "Lilium martagon", "Lilium pardalinum (leopard lily)", "Lilium regale (regal lily)" ]
+  },
+  {
+    "genusName": "",
+    "familyName": "",
+    "decription": "",
+    "image": "",
+    "species": [ "" ]
+  },
+  {
+    "genusName": "",
+    "familyName": "",
+    "decription": "",
+    "image": "",
+    "species": [ "" ]
+  },
+  {
+    "genusName": "",
+    "familyName": "",
+    "decription": "",
+    "image": "",
+    "species": [ "" ]
+  },
+  {
+    "genusName": "",
+    "familyName": "",
+    "decription": "",
+    "image": "",
+    "species": [ "" ]
+  },
+  {
+    "genusName": "",
+    "familyName": "",
+    "decription": "",
+    "image": "",
+    "species": [ "" ]
+  },
+  {
+    "genusName": "",
+    "familyName": "",
+    "decription": "",
+    "image": "",
+    "species": [ "" ]
+  },
+  {
+    "genusName": "",
+    "familyName": "",
+    "decription": "",
+    "image": "",
+    "species": [ "" ]
+  },
+  {
+    "genusName": "",
+    "familyName": "",
+    "decription": "",
+    "image": "",
+    "species": [ "" ]
+  },
+  {
+    "genusName": "",
+    "familyName": "",
+    "decription": "",
+    "image": "",
+    "species": [ "" ]
+  },
+  {
+    "genusName": "",
+    "familyName": "",
+    "decription": "",
+    "image": "",
+    "species": [ "" ]
   }
 ]

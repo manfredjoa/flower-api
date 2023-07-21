@@ -33,7 +33,7 @@
     "orderName": "Rosales",
     "uses": [ "food" ],
     "description": "Rosaceae can be woody trees, shrubs, climbers or herbaceous genera. The leaves are generally arranged spirally, but have an opposite arrangement in some species. Flowers of genera in the rose family are generally described as 'showy'. They are radially symmetrical, and almost always hermaphroditic. The fruits occur in many varieties and were once considered the main characters for the definition of subfamilies amongst Rosaceae, giving rise to a fundamentally artificial subdivision. Many fruits of the family are edible, but their seeds often contain amygdalin, which can release cyanide during digestion if the seed is damaged.",
-    "genera": [ "Rosa", "Fragaria" ]
+    "genera": [ "Rosa", "Fragaria", "Prunus" ]
   },  
   {
     "familyName": "Liliaceae",
@@ -41,7 +41,8 @@
     "meaning": "lily",
     "orderName": "Liliales",
     "uses": [ "medicinal", "food" ],
-    "description": "The Liliaceae are characterised as monocotyledonous, perennial, herbaceous, bulbous (or rhizomatous in the case of Medeoleae) flowering genera with simple trichomes (root hairs) and contractile roots. The flowers may be arranged (inflorescence) along the stem, developing from the base, or as a single flower at the tip of the stem, or as a cluster of flowers. They contain both male (androecium) and female (gynoecium) characteristics and are symmetric radially, but sometimes as a mirror image."
+    "description": "The Liliaceae are characterised as monocotyledonous, perennial, herbaceous, bulbous (or rhizomatous in the case of Medeoleae) flowering genera with simple trichomes (root hairs) and contractile roots. The flowers may be arranged (inflorescence) along the stem, developing from the base, or as a single flower at the tip of the stem, or as a cluster of flowers. They contain both male (androecium) and female (gynoecium) characteristics and are symmetric radially, but sometimes as a mirror image.",
+    "genera": [ "Lilium" ]
   },  
   {
     "familyName": "Amaranthaceae",
