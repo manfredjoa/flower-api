@@ -33,35 +33,30 @@
     "genusName": "Helianthus",
     "familyName": "Asteraceae",
     "description": "Helianthus is a genus comprising about 70 species of annual and perennial flowering plants in the daisy family Asteraceae commonly known as sunflowers. Except for three South American species, the species of Helianthus are native to North America and Central America. They are cultivated in temperate regions and some tropical regions, as food crops for humans, cattle, and poultry, and as ornamental plants.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Sunflower_sky_backdrop.jpg/440px-Sunflower_sky_backdrop.jpg",
     "species": [ "Helianthus annuus (common sunflower)", "Helianthus bolanderi", "Helianthus californicus", "Helianthus debilis", "Helianthus giganteus", "Helianthus maximiliani", "Helianthus multiflorus", "Helianthus tuberosus" ]
   },
   {
-    "genusName": 	"Taraxacum",
+    "genusName": "Taraxacum",
     "familyName": "Asteraceae",
     "description": "Taraxacum is a large genus of flowering plants which consists of species commonly known as dandelions. Like other members of the family Asteraceae, they have very small flowers collected together into a composite flower head. Each single flower in a head is called a floret. In part due to their abundance, along with being a generalist species, dandelions are one of the most vital early spring nectar sources for a wide host of pollinators.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TaraxacumOfficinaleSeed.JPG/440px-TaraxacumOfficinaleSeed.JPG",
     "species": [ "Taraxacum officinale (common dandelion)", "Taraxacum albidum", "Taraxacum californicum", "Taraxacum japonicum", "Taraxacum platycarpum", "Taraxacum pseudoroseum" ]
   },
   {
     "genusName": "Tagetes",
     "familyName": "Asteraceae",
     "description": "Tagetes is a genus of 50 species of annual or perennial, mostly herbaceous plants. Most species have pinnate green leaves. Blooms naturally occur in golden, orange, yellow, and white colors, often with maroon highlights.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Tagetes_erecta_chendumalli_chedi.jpg/440px-Tagetes_erecta_chendumalli_chedi.jpg",
     "species": [ "Tagetes erecta (Aztec marigold)", "Tagetes lemmonii", "Tagetes linifolia", "Tagetes mendocina", "Tagetes nelsonii", "Tagetes patula", "Tagetes tenuifolia" ]
   },
   {
     "genusName": "Dahlia",
     "familyName": "Asteraceae",
     "description": "Dahlia is a genus of bushy, tuberous, herbaceous perennial plants native to Mexico and Central America. Flower forms are variable, with one head per stem; these can be as small as 5 cm in diameter or up to 30 cm ('dinner plate'). This great variety results from dahlias being octoploids—that is, they have eight sets of homologous chromosomes, whereas most plants have only two.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Dahlia_tenuicaulis_-_San_Francisco_Botanical_Garden_-_DSC00015.JPG/440px-Dahlia_tenuicaulis_-_San_Francisco_Botanical_Garden_-_DSC00015.JPG",
     "species": [ "Dahlia tenuicaulis", "Dahlia campanulata", "Dahlia coccinea", "Dahlia imperialis", "Dahlia merckii" ]
   },
   {
     "genusName": "Lactuca",
     "familyName": "Asteraceae",
     "description": "Lactuca, commonly known as lettuce, is a genus of flowering plants, including at least 50 species distributed worldwide, but mainly in temperate Eurasia. Lactuca species are diverse and take a wide variety of forms. They are annuals, biennials, perennials, or shrubs. Their flower heads have yellow, blue, or white ray florets. Some species are bitter-tasting.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Lactuca_tuberosa_2.jpg/440px-Lactuca_tuberosa_2.jpg",
     "species": [ "Lactuca tuberosa", "Lactuca canadensis (Canada lettuce)", "Lactuca floridana (Florida lettuce)", "Lactuca indica (Indian lettuce)", "Lactuca macrophylla (common blue-sow-thistle)" ]
   },
   {
