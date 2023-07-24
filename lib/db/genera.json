@@ -27,13 +27,13 @@
     "genusName": "Bellis",
     "familyName": "Asteraceae",
     "description": "Bellis is native to Europe, the Mediterranean and northern Africa. One species has been introduced into North America and others into other parts of the world. The genus includes the familiar common daisy Bellis perennis.",
-    "species": [ "Bellis perennis (common daisy)", "Bellis annua", "Bellis bernardii", "Bellis caerulescens", "Bellis dubia", "Bellis hyrcanica", "Bellis longifolia", "Bellis microcephala", "Bellis rotundifolia", "Bellis sylvestris" ]
+    "species": [ "Bellis perennis (common daisy)", "Bellis annua", "Bellis rotundifolia", "Bellis sylvestris" ]
   },
   {
     "genusName": "Helianthus",
     "familyName": "Asteraceae",
     "description": "Helianthus is a genus comprising about 70 species of annual and perennial flowering plants in the daisy family Asteraceae commonly known as sunflowers. Except for three South American species, the species of Helianthus are native to North America and Central America. They are cultivated in temperate regions and some tropical regions, as food crops for humans, cattle, and poultry, and as ornamental plants.",
-    "species": [ "Helianthus annuus (common sunflower)", "Helianthus bolanderi", "Helianthus californicus", "Helianthus debilis", "Helianthus giganteus", "Helianthus maximiliani", "Helianthus multiflorus", "Helianthus tuberosus" ]
+    "species": [ "Helianthus annuus (common sunflower)", "Helianthus bolanderi", "Helianthus californicus", "Helianthus debilis", "Helianthus giganteus", "Helianthus maximiliani", "Helianthus tuberosus" ]
   },
   {
     "genusName": "Taraxacum",
