@@ -3,35 +3,30 @@
     "genusName": "Pachystachys",
     "familyName": "Acanthaceae",
     "description": "Pachystachys is a genus of 12 species of flowering plants in the family Acanthaceae, native to rainforest in the Caribbean and Central and South America. They are evergreen perennials and shrubs bearing prominent terminal spikes of flowers with brightly coloured bracts.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/PachystachysLuteaOrlando.JPG/440px-PachystachysLuteaOrlando.JPG",
     "species": [ "Pachystachys lutea (lollipop plant)", "Pachystachys coccinea" ]
   },
   {
     "genusName": "Aphelandra",
     "familyName": "Acanthaceae",
     "description": "Aphelandra is a genus of about 170 species of flowering plants in the family Acanthaceae, native to tropical regions of the Americas. They are evergreen shrubs growing to 1–2 m tall, with opposite, simple leaves 5–30 cm long, often with white veins. The flowers are produced in dense spikes, with brightly coloured bracts. Several species are grown as houseplants for their patterned leaves and brightly coloured inflorescences.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Aphelandra_sinclairiana_Cairns.jpg/440px-Aphelandra_sinclairiana_Cairns.jpg",
     "species": [ "Aphelandra squarrosa (zebra plant)", "Aphelandra dodsonii", "Aphelandra galba", "Aphelandra guayasii", "Aphelandra gunnari", "Aphelandra sinclairiana" ]
   },
   {
     "genusName": "Hypoestes",
     "familyName": "Acanthaceae",
     "description": "Hypoestes is a flowering plant genus of about 150 species. They are widely distributed throughout the tropical and subtropical lands around the Indian Ocean, and some adjacent regions. Many of these herbaceous to small shrubby plants of the undergrowth have boldly patterned leaves, typically featuring red colors.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Starr_080117-1693_Hypoestes_phyllostachya.jpg/440px-Starr_080117-1693_Hypoestes_phyllostachya.jpg",
     "species": [ "Hypoestes phyllostachya (polka dot plant)", "Hypoestes floribunda", "Hypoestes forskaolii", "Hypoestes pubescens" ]
   },
   {
     "genusName": "Chrysanthemum",
     "familyName": "Asteraceae",
     "description": "Chrysanthemums, sometimes called mums or chrysanths, are flowering plants native to East Asia and northeastern Europe. Most species originate from East Asia and the center of diversity is in China. Countless horticultural varieties and cultivars exist.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Chrysanthemum_nangkingense.jpg/440px-Chrysanthemum_nangkingense.jpg",
-    "species": [ "Chrysanthemum indicum", "Chrysanthemum arisanense", "Chrysanthemum integrifolium", "Chrysanthemum japonense", "Chrysanthemum lavandulifolium ", "Chrysanthemum zawadskii" ]
+    "species": [ "Chrysanthemum indicum", "Chrysanthemum arisanense", "Chrysanthemum integrifolium", "Chrysanthemum japonense", "Chrysanthemum lavandulifolium", "Chrysanthemum zawadskii" ]
   },
   {
     "genusName": "Bellis",
     "familyName": "Asteraceae",
     "description": "Bellis is native to Europe, the Mediterranean and northern Africa. One species has been introduced into North America and others into other parts of the world. The genus includes the familiar common daisy Bellis perennis.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/2014-03-10_12-32-15_Bellis-perennis.jpg/440px-2014-03-10_12-32-15_Bellis-perennis.jpg",
     "species": [ "Bellis perennis (common daisy)", "Bellis annua", "Bellis bernardii", "Bellis caerulescens", "Bellis dubia", "Bellis hyrcanica", "Bellis longifolia", "Bellis microcephala", "Bellis rotundifolia", "Bellis sylvestris" ]
   },
   {

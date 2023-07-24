@@ -1,0 +1,430 @@
+[
+  {
+    "speciesName": "Pachystachys lutea (lollipop plant)",
+    "genusName": "Pachystachys",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/PachystachysLuteaOrlando.JPG/440px-PachystachysLuteaOrlando.JPG"
+  },
+  {
+    "speciesName": "Pachystachys coccinea",
+    "genusName": "Pachystachys",
+    "image": ""
+  },
+  {
+    "speciesName": "Aphelandra squarrosa (zebra plant)",
+    "genusName": "Aphelandra",
+    "image": ""
+  },
+  {
+    "speciesName": "Aphelandra dodsonii",
+    "genusName": "Aphelandra",
+    "image": ""
+  },
+  {
+    "speciesName": "Aphelandra galba",
+    "genusName": "Aphelandra",
+    "image": ""
+  },
+  {
+    "speciesName": "Aphelandra guayasii",
+    "genusName": "Aphelandra",
+    "image": ""
+  },
+  {
+    "speciesName": "Aphelandra gunnari",
+    "genusName": "Aphelandra",
+    "image": ""
+  },
+  {
+    "speciesName": "Aphelandra sinclairiana",
+    "genusName": "Aphelandra",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Aphelandra_sinclairiana_Cairns.jpg/440px-Aphelandra_sinclairiana_Cairns.jpg"
+  },
+  {
+    "speciesName": "Hypoestes phyllostachya (polka dot plant)",
+    "genusName": "Hypoestes",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Starr_080117-1693_Hypoestes_phyllostachya.jpg/440px-Starr_080117-1693_Hypoestes_phyllostachya.jpg"
+  },
+  {
+    "speciesName": "Hypoestes floribunda",
+    "genusName": "Hypoestes",
+    "image": ""
+  },
+  {
+    "speciesName": "Hypoestes forskaolii",
+    "genusName": "Hypoestes",
+    "image": ""
+  },
+  {
+    "speciesName": "Hypoestes pubescens",
+    "genusName": "Hypoestes",
+    "image": ""
+  },
+  {
+    "speciesName": "Chrysanthemum indicum",
+    "genusName": "Chrysanthemum",
+    "image": ""
+  },
+  {
+    "speciesName": "Chrysanthemum arisanense",
+    "genusName": "Chrysanthemum",
+    "image": ""
+  },
+  {
+    "speciesName": "Chrysanthemum integrifolium",
+    "genusName": "Chrysanthemum",
+    "image": ""
+  },
+  {
+    "speciesName": "Chrysanthemum japonense",
+    "genusName": "Chrysanthemum",
+    "image": ""
+  },
+  {
+    "speciesName": "Chrysanthemum lavandulifolium",
+    "genusName": "Chrysanthemum",
+    "image": ""
+  },
+  {
+    "speciesName": "Chrysanthemum zawadskii",
+    "genusName": "Chrysanthemum",
+    "image": ""
+  },
+  {
+    "speciesName": "Bellis perennis (common daisy)",
+    "genusName": "Bellis",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/2014-03-10_12-32-15_Bellis-perennis.jpg/440px-2014-03-10_12-32-15_Bellis-perennis.jpg"
+  },
+  {
+    "speciesName": "Bellis annua",
+    "genusName": "Bellis",
+    "image": ""
+  },
+  {
+    "speciesName": "Bellis bernardii",
+    "genusName": "Bellis",
+    "image": ""
+  },
+  {
+    "speciesName": "Bellis caerulescens",
+    "genusName": "Bellis",
+    "image": ""
+  },
+  {
+    "speciesName": "Bellis dubia",
+    "genusName": "Bellis",
+    "image": ""
+  },
+  {
+    "speciesName": "Bellis hyrcanica",
+    "genusName": "Bellis",
+    "image": ""
+  },
+  {
+    "speciesName": "Bellis longifolia",
+    "genusName": "Bellis",
+    "image": ""
+  },
+  {
+    "speciesName": "Bellis microcephala",
+    "genusName": "Bellis",
+    "image": ""
+  },
+  {
+    "speciesName": "Bellis rotundifolia",
+    "genusName": "Bellis",
+    "image": ""
+  },
+  {
+    "speciesName": "Bellis sylvestris",
+    "genusName": "Bellis",
+    "image": ""
+  },
+  {
+    "speciesName": "",
+    "image": ""
+  },
+  {
+    "speciesName": "",
+    "image": ""
+  },
+  {
+    "speciesName": "",
+    "image": ""
+  },
+  {
+    "speciesName": "",
+    "image": ""
+  },
+  {
+    "speciesName": "",
+    "image": ""
+  },
+  {
+    "speciesName": "",
+    "image": ""
+  },
+  {
+    "speciesName": "",
+    "image": ""
+  },
+  {
+    "speciesName": "",
+    "image": ""
+  },
+  {
+    "speciesName": "",
+    "image": ""
+  },
+  {
+    "speciesName": "",
+    "image": ""
+  },
+  {
+    "speciesName": "",
+    "image": ""
+  },
+  {
+    "speciesName": "",
+    "image": ""
+  },
+  {
+    "speciesName": "",
+    "image": ""
+  },
+  {
+    "speciesName": "",
+    "image": ""
+  },
+  {
+    "speciesName": "",
+    "image": ""
+  },
+  {
+    "speciesName": "",
+    "image": ""
+  },
+  {
+    "speciesName": "",
+    "image": ""
+  },
+  {
+    "speciesName": "",
+    "image": ""
+  },
+  {
+    "speciesName": "",
+    "image": ""
+  },
+  {
+    "speciesName": "",
+    "image": ""
+  },
+  {
+    "speciesName": "",
+    "image": ""
+  },
+  {
+    "speciesName": "",
+    "image": ""
+  },
+  {
+    "speciesName": "",
+    "image": ""
+  },
+  {
+    "speciesName": "",
+    "image": ""
+  },
+  {
+    "speciesName": "",
+    "image": ""
+  },
+  {
+    "speciesName": "",
+    "image": ""
+  },
+  {
+    "speciesName": "",
+    "image": ""
+  },
+  {
+    "speciesName": "",
+    "image": ""
+  },
+  {
+    "speciesName": "",
+    "image": ""
+  },
+  {
+    "speciesName": "",
+    "image": ""
+  },
+  {
+    "speciesName": "",
+    "image": ""
+  },
+  {
+    "speciesName": "",
+    "image": ""
+  },
+  {
+    "speciesName": "",
+    "image": ""
+  },
+  {
+    "speciesName": "",
+    "image": ""
+  },
+  {
+    "speciesName": "",
+    "image": ""
+  },
+  {
+    "speciesName": "",
+    "image": ""
+  },
+  {
+    "speciesName": "",
+    "image": ""
+  },
+  {
+    "speciesName": "",
+    "image": ""
+  },
+  {
+    "speciesName": "",
+    "image": ""
+  },
+  {
+    "speciesName": "",
+    "image": ""
+  },
+  {
+    "speciesName": "",
+    "image": ""
+  },
+  {
+    "speciesName": "",
+    "image": ""
+  },
+  {
+    "speciesName": "",
+    "image": ""
+  },
+  {
+    "speciesName": "",
+    "image": ""
+  },
+  {
+    "speciesName": "",
+    "image": ""
+  },
+  {
+    "speciesName": "",
+    "image": ""
+  },
+  {
+    "speciesName": "",
+    "image": ""
+  },
+  {
+    "speciesName": "",
+    "image": ""
+  },
+  {
+    "speciesName": "",
+    "image": ""
+  },
+  {
+    "speciesName": "",
+    "image": ""
+  },
+  {
+    "speciesName": "",
+    "image": ""
+  },
+  {
+    "speciesName": "",
+    "image": ""
+  },
+  {
+    "speciesName": "",
+    "image": ""
+  },
+  {
+    "speciesName": "",
+    "image": ""
+  },
+  {
+    "speciesName": "",
+    "image": ""
+  },
+  {
+    "speciesName": "",
+    "image": ""
+  },
+  {
+    "speciesName": "",
+    "image": ""
+  },
+  {
+    "speciesName": "",
+    "image": ""
+  },
+  {
+    "speciesName": "",
+    "image": ""
+  },
+  {
+    "speciesName": "",
+    "image": ""
+  },
+  {
+    "speciesName": "",
+    "image": ""
+  },
+  {
+    "speciesName": "",
+    "image": ""
+  },
+  {
+    "speciesName": "",
+    "image": ""
+  },
+  {
+    "speciesName": "",
+    "image": ""
+  },
+  {
+    "speciesName": "",
+    "image": ""
+  },
+  {
+    "speciesName": "",
+    "image": ""
+  },
+  {
+    "speciesName": "",
+    "image": ""
+  },
+  {
+    "speciesName": "",
+    "image": ""
+  },
+  {
+    "speciesName": "",
+    "image": ""
+  },
+  {
+    "speciesName": "",
+    "image": ""
+  },
+  {
+    "speciesName": "",
+    "image": ""
+  },
+  {
+    "speciesName": "",
+    "image": ""
+  }
+]
