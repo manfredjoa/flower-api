@@ -9,13 +9,13 @@
     "genusName": "Aphelandra",
     "familyName": "Acanthaceae",
     "description": "Aphelandra is a genus of about 170 species of flowering plants in the family Acanthaceae, native to tropical regions of the Americas. They are evergreen shrubs growing to 1–2 m tall, with opposite, simple leaves 5–30 cm long, often with white veins. The flowers are produced in dense spikes, with brightly coloured bracts. Several species are grown as houseplants for their patterned leaves and brightly coloured inflorescences.",
-    "species": [ "Aphelandra squarrosa (zebra plant)", "Aphelandra dodsonii", "Aphelandra galba", "Aphelandra guayasii", "Aphelandra gunnari", "Aphelandra sinclairiana" ]
+    "species": [ "Aphelandra squarrosa (zebra plant)", "Aphelandra sinclairiana" ]
   },
   {
     "genusName": "Hypoestes",
     "familyName": "Acanthaceae",
     "description": "Hypoestes is a flowering plant genus of about 150 species. They are widely distributed throughout the tropical and subtropical lands around the Indian Ocean, and some adjacent regions. Many of these herbaceous to small shrubby plants of the undergrowth have boldly patterned leaves, typically featuring red colors.",
-    "species": [ "Hypoestes phyllostachya (polka dot plant)", "Hypoestes floribunda", "Hypoestes forskaolii", "Hypoestes pubescens" ]
+    "species": [ "Hypoestes phyllostachya (polka dot plant)", "Hypoestes floribunda", "Hypoestes forskaolii" ]
   },
   {
     "genusName": "Chrysanthemum",
@@ -135,21 +135,18 @@
     "genusName": "Gypsophila",
     "familyName": "Caryophyllaceae",
     "decription": "Gypsophila is a genus of flowering plants in the carnation family, Caryophyllaceae. They are native to Eurasia, Africa, Australia, and the Pacific Islands. Each small flower has a cup-like calyx of white-edged green sepals containing five petals in shades of white or pink. The fruit is a rounded or oval capsule opening at valves.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Gypsophila_repens_-_close-up_%28aka%29.jpg/440px-Gypsophila_repens_-_close-up_%28aka%29.jpg",
     "species": [ "Gypsophila repens (creeping baby's breath)", "Gypsophila elegans (showy baby's breath)", "Gypsophila fastigiata", "Gypsophila oldhamiana", "Gypsophila paniculata (common gypsophila)" ]
   },
   {
     "genusName": "Cortaderia",
     "familyName": "Poaceae",
     "decription": "Cortaderia is a genus of South American and Central American plants. The species of Cortaderia are imposing tall grasses growing 1.5–3 m tall, with graceful white inflorescence plumes. They are in widespread use as ornamental plants.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Cortaderia_selloana0.jpg/440px-Cortaderia_selloana0.jpg",
     "species": [ "Cortaderia selloana (pampas grass)", "Cortaderia jubata (purple pampas grass)" ]
   },
   {
     "genusName": "Cymbopogon",
     "familyName": "Poaceae",
     "decription": "Cymbopogon, also known as lemongrass, barbed wire grass, silky heads, Cochin grass, Malabar grass, oily heads, citronella grass or fever grass, is a genus of Asian, African, Australian, and tropical island plants in the grass family. Some species are commonly cultivated as culinary and medicinal herbs because of their scent, resembling that of lemons. Lemongrass and its oil are believed to possess therapeutic properties.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/YosriNov04Pokok_Serai.JPG/440px-YosriNov04Pokok_Serai.JPG",
-    "species": [ "Cymbopogon citratus (lemongrass)", "Cymbopogon bombycinus (citronella grass)", "Cymbopogon martini (palmarosa)", "Cymbopogon winterianus (java citronella)" ]
+    "species": [ "Cymbopogon citratus (lemongrass)", "Cymbopogon bombycinus (citronella grass)", "Cymbopogon martinii (palmarosa)", "Cymbopogon winterianus (java citronella)" ]
   }
 ]

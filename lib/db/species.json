@@ -7,32 +7,12 @@
   {
     "speciesName": "Pachystachys coccinea",
     "genusName": "Pachystachys",
-    "image": ""
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Pachystachys_coccinea.jpg/440px-Pachystachys_coccinea.jpg"
   },
   {
     "speciesName": "Aphelandra squarrosa (zebra plant)",
     "genusName": "Aphelandra",
-    "image": ""
-  },
-  {
-    "speciesName": "Aphelandra dodsonii",
-    "genusName": "Aphelandra",
-    "image": ""
-  },
-  {
-    "speciesName": "Aphelandra galba",
-    "genusName": "Aphelandra",
-    "image": ""
-  },
-  {
-    "speciesName": "Aphelandra guayasii",
-    "genusName": "Aphelandra",
-    "image": ""
-  },
-  {
-    "speciesName": "Aphelandra gunnari",
-    "genusName": "Aphelandra",
-    "image": ""
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Aphelandra_squarrosa.jpg/402px-Aphelandra_squarrosa.jpg"
   },
   {
     "speciesName": "Aphelandra sinclairiana",
@@ -47,47 +27,42 @@
   {
     "speciesName": "Hypoestes floribunda",
     "genusName": "Hypoestes",
-    "image": ""
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Hypoestes_floribunda_litchfield.jpg/440px-Hypoestes_floribunda_litchfield.jpg"
   },
   {
     "speciesName": "Hypoestes forskaolii",
     "genusName": "Hypoestes",
-    "image": ""
-  },
-  {
-    "speciesName": "Hypoestes pubescens",
-    "genusName": "Hypoestes",
-    "image": ""
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Hypoestes_forskaolii_%2825341465184%29.jpg/440px-Hypoestes_forskaolii_%2825341465184%29.jpg"
   },
   {
     "speciesName": "Chrysanthemum indicum",
     "genusName": "Chrysanthemum",
-    "image": ""
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Chrysanthemum_indicum1.jpg/440px-Chrysanthemum_indicum1.jpg"
   },
   {
     "speciesName": "Chrysanthemum arisanense",
     "genusName": "Chrysanthemum",
-    "image": ""
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/df/%E9%98%BF%E9%87%8C%E5%B1%B1%E6%B2%B9%E8%8F%8A.jpg"
   },
   {
     "speciesName": "Chrysanthemum integrifolium",
     "genusName": "Chrysanthemum",
-    "image": ""
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Chrysanthemum_integrifolium_1997-08-05.jpg/440px-Chrysanthemum_integrifolium_1997-08-05.jpg"
   },
   {
     "speciesName": "Chrysanthemum japonense",
     "genusName": "Chrysanthemum",
-    "image": ""
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Chrysanthemum_japonense2.jpg/440px-Chrysanthemum_japonense2.jpg"
   },
   {
     "speciesName": "Chrysanthemum lavandulifolium",
     "genusName": "Chrysanthemum",
-    "image": ""
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Chrysanthemum_lavandulifolium.jpg/440px-Chrysanthemum_lavandulifolium.jpg"
   },
   {
     "speciesName": "Chrysanthemum zawadskii",
     "genusName": "Chrysanthemum",
-    "image": ""
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Chrysanthemum_zawadskii_var_latilobum2.jpg/440px-Chrysanthemum_zawadskii_var_latilobum2.jpg"
   },
   {
     "speciesName": "Bellis perennis (common daisy)",
@@ -565,47 +540,58 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Caryophillaceae_-_Dianthus_monspessulanus-3.JPG/440px-Caryophillaceae_-_Dianthus_monspessulanus-3.JPG"
   },
   {
-    "speciesName": "",
-    "image": ""
+    "speciesName": "Gypsophila repens (creeping baby's breath)",
+    "genusName": "Gypsophila",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Gypsophila_repens_-_close-up_%28aka%29.jpg/440px-Gypsophila_repens_-_close-up_%28aka%29.jpg"
   },
   {
-    "speciesName": "",
-    "image": ""
+    "speciesName": "Gypsophila elegans (showy baby's breath)",
+    "genusName": "Gypsophila",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Gypsophila_elegans.jpg/440px-Gypsophila_elegans.jpg"
   },
   {
-    "speciesName": "",
-    "image": ""
+    "speciesName": "Gypsophila fastigiata",
+    "genusName": "Gypsophila",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/20140803Gypsophila_fastigiata2.jpg/440px-20140803Gypsophila_fastigiata2.jpg"
   },
   {
-    "speciesName": "",
-    "image": ""
+    "speciesName": "Gypsophila oldhamiana",
+    "genusName": "Gypsophila",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Gypsophila_oldhamiana.JPG/440px-Gypsophila_oldhamiana.JPG"
   },
   {
-    "speciesName": "",
-    "image": ""
+    "speciesName": "Gypsophila paniculata (common gypsophila)",
+    "genusName": "Gypsophila",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Gypsophila_paniculata_sl17.jpg/440px-Gypsophila_paniculata_sl17.jpg"
   },
   {
-    "speciesName": "",
-    "image": ""
+    "speciesName": "Cortaderia selloana (pampas grass)",
+    "genusName": "Cortaderia",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Cortaderia_selloana0.jpg/440px-Cortaderia_selloana0.jpg"
   },
   {
-    "speciesName": "",
-    "image": ""
+    "speciesName": "Cortaderia jubata (purple pampas grass)",
+    "genusName": "Cortaderia",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Cortaderiajubata.jpg/440px-Cortaderiajubata.jpg"
   },
   {
-    "speciesName": "",
-    "image": ""
+    "speciesName": "Cymbopogon citratus (lemongrass)",
+    "genusName": "Cymbopogon",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gardenology.org-IMG_2892_rbgs11jan.jpg/440px-Gardenology.org-IMG_2892_rbgs11jan.jpg"
   },
   {
-    "speciesName": "",
-    "image": ""
+    "speciesName": "Cymbopogon bombycinus (citronella grass)",
+    "genusName": "Cymbopogon",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Cymbopogon_habit.jpg/440px-Cymbopogon_habit.jpg"
   },
   {
-    "speciesName": "",
-    "image": ""
+    "speciesName": "Cymbopogon martinii (palmarosa)",
+    "genusName": "Cymbopogon",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Cymbopogon_martinii_Image.jpg/440px-Cymbopogon_martinii_Image.jpg"
   },
   {
-    "speciesName": "",
-    "image": ""
+    "speciesName": "Cymbopogon winterianus (java citronella)",
+    "genusName": "Cymbopogon",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Cymbopogon_winterianus.jpeg/440px-Cymbopogon_winterianus.jpeg"
   }
 ]
