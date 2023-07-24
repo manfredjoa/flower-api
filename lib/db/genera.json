@@ -63,29 +63,25 @@
     "genusName": "Solanum",
     "familyName": "Solanaceae",
     "description": "Solanum is a large and diverse genus of flowering plants, which include three food crops of high economic importance: the potato, the tomato and the eggplant. It is the largest genus in the nightshade family Solanaceae, comprising around 1,500 species. It also contains the so-called horse nettles, as well as numerous plants cultivated for their ornamental flowers and fruit.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Ab_plant_2377.jpg/440px-Ab_plant_2377.jpg",
     "species": [ "Solanum mammosum (nipplefruit)", "Solanum lycopersicum (tomato)", "Solanum tuberosum (potato)", "Solanum melongena (eggplant)", "Solanum seaforthianum (Brazilian nightshade)" ]
   },
   {
     "genusName": "Rosa",
     "familyName": "Rosaceae",
     "description": "There are over three hundred species and tens of thousands of cultivars. They form a group of plants that can be erect shrubs, climbing, or trailing, with stems that are often armed with sharp prickles. Their flowers vary in size and shape and are usually large and showy, in colours ranging from white through yellows and reds. Most species are native to Asia, with smaller numbers native to Europe, North America, and northwestern Africa.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Rosa_rubiginosa_1.jpg/440px-Rosa_rubiginosa_1.jpg",
     "species": [ "Rosa rubiginosa", "Rosa persica", "Rosa minutifolia", "Rosa stellata", "Rosa gymnocarpa", "Rosa sericea", "Rosa moyesii" ]
   },
   {
     "genusName": "Fragaria",
     "familyName": "Rosaceae",
     "description": "Fragaria is a genus of flowering plants commonly known as strawberries for their edible fruits. There are more than 20 described species and many hybrids and cultivars. Strawberries are not berries in the botanical sense. The fleshy and edible part of the 'fruit' is a receptacle, and the parts that are sometimes mistakenly called 'seeds' are achenes and therefore the true botanical fruits.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Fragaria_moupinensis.jpg/440px-Fragaria_moupinensis.jpg",
     "species": [ "Fragaria moupinesis", "Fragaria × ananassa (garden strawberry)", "Fragaria daltoniana", "Fragaria vesca (woodland strawberry)", "Fragaria viridis" ]
   },
   {
     "genusName": "Prunus",
     "familyName": "Rosaceae",
     "description": "Prunus is a genus of trees and shrubs, which includes (among many others) the fruits plums, cherries, peaches, nectarines, apricots, and almonds. Native to the North American temperate regions, the neotropics of South America, and the paleotropics of Asia and Africa, 430 different species are classified under Prunus. Many members of the genus are widely cultivated for their fruit and for decorative purposes. The fruits of Prunus often contain many phytochemicals and antioxidants. These compounds have properties that have been linked to preventing different diseases and disorders.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Fr%C3%BChling_bl%C3%BChender_Kirschenbaum.jpg/440px-Fr%C3%BChling_bl%C3%BChender_Kirschenbaum.jpg",
-    "species": [ "Prunus cerasus (sour cherry tree)", "Prunus armeniaca (apricot tree)", "Prunus americana (American plum tree", "Prunus fasciculata (wild almond shrub)" ]
+    "species": [ "Prunus cerasus (sour cherry tree)", "Prunus armeniaca (apricot tree)", "Prunus americana (American plum tree)", "Prunus fasciculata (wild almond shrub)" ]
   },
   {
     "genusName": "Lilium",
