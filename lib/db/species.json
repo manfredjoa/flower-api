@@ -1,56 +1,67 @@
 [
   {
-    "speciesName": "Pachystachys lutea (lollipop plant)",
+    "speciesName": "Pachystachys lutea",
+    "commonName": "lollipop plant",
     "genusName": "Pachystachys",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/PachystachysLuteaOrlando.JPG/440px-PachystachysLuteaOrlando.JPG"
   },
   {
     "speciesName": "Pachystachys coccinea",
+    "commonName": "Cardinals guard",
     "genusName": "Pachystachys",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Pachystachys_coccinea.jpg/440px-Pachystachys_coccinea.jpg"
   },
   {
-    "speciesName": "Aphelandra squarrosa (zebra plant)",
+    "speciesName": "Aphelandra squarrosa",
+    "commonName": "zebra plant",
     "genusName": "Aphelandra",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Aphelandra_squarrosa.jpg/402px-Aphelandra_squarrosa.jpg"
   },
   {
     "speciesName": "Aphelandra sinclairiana",
+    "commonName": "coral aphelandra",
     "genusName": "Aphelandra",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Aphelandra_sinclairiana_Cairns.jpg/440px-Aphelandra_sinclairiana_Cairns.jpg"
   },
   {
-    "speciesName": "Hypoestes phyllostachya (polka dot plant)",
+    "speciesName": "Hypoestes phyllostachya",
+    "commonName": "polka dot plant",
     "genusName": "Hypoestes",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Starr_080117-1693_Hypoestes_phyllostachya.jpg/440px-Starr_080117-1693_Hypoestes_phyllostachya.jpg"
   },
   {
     "speciesName": "Hypoestes floribunda",
+    "commonName": "musk-scented plant",
     "genusName": "Hypoestes",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Hypoestes_floribunda_litchfield.jpg/440px-Hypoestes_floribunda_litchfield.jpg"
   },
   {
     "speciesName": "Hypoestes forskaolii",
+    "commonName": "white ribbon bush",
     "genusName": "Hypoestes",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Hypoestes_forskaolii_%2825341465184%29.jpg/440px-Hypoestes_forskaolii_%2825341465184%29.jpg"
   },
   {
     "speciesName": "Chrysanthemum indicum",
+    "commonName": "Indian chrysanthemum",
     "genusName": "Chrysanthemum",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Chrysanthemum_indicum1.jpg/440px-Chrysanthemum_indicum1.jpg"
   },
   {
     "speciesName": "Chrysanthemum arisanense",
+    "commonName": "Dendranthema arisanense",
     "genusName": "Chrysanthemum",
     "image": "https://upload.wikimedia.org/wikipedia/commons/d/df/%E9%98%BF%E9%87%8C%E5%B1%B1%E6%B2%B9%E8%8F%8A.jpg"
   },
   {
     "speciesName": "Chrysanthemum integrifolium",
+    "commonName": "entire-leaved daisy",
     "genusName": "Chrysanthemum",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Chrysanthemum_integrifolium_1997-08-05.jpg/440px-Chrysanthemum_integrifolium_1997-08-05.jpg"
   },
   {
     "speciesName": "Chrysanthemum japonense",
+    "commonName": "point wild roadside daisy",
     "genusName": "Chrysanthemum",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Chrysanthemum_japonense2.jpg/440px-Chrysanthemum_japonense2.jpg"
   },
@@ -61,51 +72,61 @@
   },
   {
     "speciesName": "Chrysanthemum zawadskii",
+    "commonName": "Zawadzki chrysanthemum",
     "genusName": "Chrysanthemum",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Chrysanthemum_zawadskii_var_latilobum2.jpg/440px-Chrysanthemum_zawadskii_var_latilobum2.jpg"
   },
   {
-    "speciesName": "Bellis perennis (common daisy)",
+    "speciesName": "Bellis perennis",
+    "commonName": "common daisy",
     "genusName": "Bellis",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/2014-03-10_12-32-15_Bellis-perennis.jpg/440px-2014-03-10_12-32-15_Bellis-perennis.jpg"
   },
   {
     "speciesName": "Bellis annua",
+    "commonName": "annual daisy",
     "genusName": "Bellis",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Bellisannua1.jpg/440px-Bellisannua1.jpg"
   },
   {
     "speciesName": "Bellis rotundifolia",
+    "commonName": "white flowered blue daisy",
     "genusName": "Bellis",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Bellis_rotundifolia.JPG/440px-Bellis_rotundifolia.JPG"
+    "image": "https://garden-tags-live.s3-accelerate.amazonaws.com/tiggrx_1443604072.jpeg"
   },
   {
     "speciesName": "Bellis sylvestris",
+    "commonName": "southern daisy",
     "genusName": "Bellis",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Bellis_2007-1.jpg/440px-Bellis_2007-1.jpg"
   },
   {
-    "speciesName": "Helianthus annuus (common sunflower)",
+    "speciesName": "Helianthus annuus",
+    "commonName": "common sunflower",
     "genusName": "Helianthus",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Sunflower_sky_backdrop.jpg/440px-Sunflower_sky_backdrop.jpg"
   },
   {
     "speciesName": "Helianthus bolanderi",
+    "commonName": "Bolander's sunflower",
     "genusName": "Helianthus",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Helianthus_bolanderi.jpg/440px-Helianthus_bolanderi.jpg"
   },
   {
     "speciesName": "Helianthus californicus",
+    "commonName": "California sunflower",
     "genusName": "Helianthus",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Helianthuscalifornicus.jpg/440px-Helianthuscalifornicus.jpg"
   },
   {
     "speciesName": "Helianthus debilis",
+    "commonName": "cumberleaf sunflower",
     "genusName": "Helianthus",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tournesol_de_la_Plage_%285954050557%29.jpg/440px-Tournesol_de_la_Plage_%285954050557%29.jpg"
   },
   {
     "speciesName": "Helianthus giganteus",
+    "commonName": "giant sunflower",
     "genusName": "Helianthus",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Helianthus_giganteus.jpg/440px-Helianthus_giganteus.jpg"
   },
