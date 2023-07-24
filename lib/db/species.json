@@ -132,16 +132,19 @@
   },
   {
     "speciesName": "Helianthus maximiliani",
+    "commonName": "Maximilian sunflower",
     "genusName": "Helianthus",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Helianthus_maximiliani_NPS-1.jpg/440px-Helianthus_maximiliani_NPS-1.jpg"
   },
   {
     "speciesName": "Helianthus tuberosus",
+    "commonName": "Jerusalem artichoke",
     "genusName": "Helianthus",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Sunroot_top.jpg/440px-Sunroot_top.jpg"
   },
   {
-    "speciesName": "Taraxacum officinale (common dandelion)",
+    "speciesName": "Taraxacum officinale",
+    "commonName": "common dandelion",
     "genusName": "Taraxacum",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TaraxacumOfficinaleSeed.JPG/440px-TaraxacumOfficinaleSeed.JPG"
   },
@@ -152,31 +155,37 @@
   },
   {
     "speciesName": "Taraxacum californicum",
+    "commonName": "California dandelion",
     "genusName": "Taraxacum",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Taraxacumcalifornicum.jpg/440px-Taraxacumcalifornicum.jpg"
   },
   {
     "speciesName": "Taraxacum japonicum",
+    "commonName": "Japanese dandelion",
     "genusName": "Taraxacum",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/T_japonicum04.jpg/240px-T_japonicum04.jpg"
   },
   {
     "speciesName": "Taraxacum platycarpum",
+    "commonName": "Korean dandelion",
     "genusName": "Taraxacum",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Taraxacum_platycarpum_4.jpg/440px-Taraxacum_platycarpum_4.jpg"
   },
   {
     "speciesName": "Taraxacum pseudoroseum",
+    "commonName": "pink dandelion",
     "genusName": "Taraxacum",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Pink_Dandelion_%28Taraxacum_pseudoroseum%29.jpg/440px-Pink_Dandelion_%28Taraxacum_pseudoroseum%29.jpg"
   },
   {
-    "speciesName": "Tagetes erecta (Aztec marigold)",
+    "speciesName": "Tagetes erecta",
+    "commonName": "Aztec marigold",
     "genusName": "Tagetes",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Tagetes_erecta_chendumalli_chedi.jpg/440px-Tagetes_erecta_chendumalli_chedi.jpg"
   },
   {
     "speciesName": "Tagetes lemmonii",
+    "commonName": "Lemmon's marigold",
     "genusName": "Tagetes",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Tagetes_lemmonii2-Clapiers-5736.jpg/440px-Tagetes_lemmonii2-Clapiers-5736.jpg"
   },
@@ -192,66 +201,79 @@
   },
   {
     "speciesName": "Tagetes nelsonii",
+    "commonName": "citrus scented marigold",
     "genusName": "Tagetes",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Tagetes_nelsonii_2.jpg/440px-Tagetes_nelsonii_2.jpg"
   },
   {
     "speciesName": "Tagetes patula",
+    "commonName": "French marigold",
     "genusName": "Tagetes",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/French_marigold_Tagetes_patula.jpg/440px-French_marigold_Tagetes_patula.jpg"
   },
   {
     "speciesName": "Tagetes tenuifolia",
+    "commonName": "signet marigold",
     "genusName": "Tagetes",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Tagetes_tenuifolia_g122.JPG/440px-Tagetes_tenuifolia_g122.JPG"
   },
   {
     "speciesName": "Dahlia tenuicaulis",
+    "commonName": "tree dahlia",
     "genusName": "Dahlia",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Dahlia_tenuicaulis_-_San_Francisco_Botanical_Garden_-_DSC00015.JPG/440px-Dahlia_tenuicaulis_-_San_Francisco_Botanical_Garden_-_DSC00015.JPG"
   },
   {
-    "speciesName": "Dahlia campanulata (weeping tree dahlia)",
+    "speciesName": "Dahlia campanulata",
+    "commonName": "weeping tree dahlia",
     "genusName": "Dahlia",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Dahlia_campanulata_Saar-_Sorenson_%26_Hjert.-_Acta_Bot._Mex._64-_20_%28-22-_fig._1%29_%282003%29_20211114_115116.jpg/440px-Dahlia_campanulata_Saar-_Sorenson_%26_Hjert.-_Acta_Bot._Mex._64-_20_%28-22-_fig._1%29_%282003%29_20211114_115116.jpg"
   },
   {
-    "speciesName": "Dahlia coccinea (red dahlia)",
+    "speciesName": "Dahlia coccinea",
+    "commonName": "red dahlia",
     "genusName": "Dahlia",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Dahlia_coccinea_%28Asteraceae%29.jpg/440px-Dahlia_coccinea_%28Asteraceae%29.jpg"
   },
   {
     "speciesName": "Dahlia imperialis",
+    "commonName": "bell tree dahlia",
     "genusName": "Dahlia",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Dahlia_imperialis1SHSU.jpg/440px-Dahlia_imperialis1SHSU.jpg"
   },
   {
-    "speciesName": "Dahlia merckii (Merck's dahlia)",
+    "speciesName": "Dahlia merckii",
+    "commonName": "Merck's dahlia",
     "genusName": "Dahlia",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/DAHLIAMERCKII.jpg/440px-DAHLIAMERCKII.jpg"
   },
   {
     "speciesName": "Lactuca tuberosa",
+    "commonName": "tuberous lettuce",
     "genusName": "Lactuca",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Lactuca_tuberosa_2.jpg/440px-Lactuca_tuberosa_2.jpg"
   },
   {
-    "speciesName": "Lactuca canadensis (Canada lettuce)",
+    "speciesName": "Lactuca canadensis",
+    "commonName": "Canada lettuce",
     "genusName": "Lactuca",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Lactuca_canadensis_WILD_LETTUCE_%283362992724%29.jpg/440px-Lactuca_canadensis_WILD_LETTUCE_%283362992724%29.jpg"
   },
   {
-    "speciesName": "Lactuca floridana (Florida lettuce)",
+    "speciesName": "Lactuca floridana",
+    "commonName": "Florida lettuce",
     "genusName": "Lactuca",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Lactuca_floridana_-_Woodland_Lettuce.jpg/440px-Lactuca_floridana_-_Woodland_Lettuce.jpg"
   },
   {
-    "speciesName": "Lactuca indica (Indian lettuce)",
+    "speciesName": "Lactuca indica",
+    "commonName": "Indian lettuce",
     "genusName": "Lactuca",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Akinonogeshi.JPG/440px-Akinonogeshi.JPG"
   },
   {
-    "speciesName": "Lactuca macrophylla (common blue-sow-thistle)",
+    "speciesName": "Lactuca macrophylla",
+    "commonName": "common blue-sow-thistle",
     "genusName": "Lactuca",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Common_Blue_Sow-thistle_%28Cicerbita_macrophylla%29_-_geograph.org.uk_-_660508.jpg/440px-Common_Blue_Sow-thistle_%28Cicerbita_macrophylla%29_-_geograph.org.uk_-_660508.jpg"
   },
