@@ -278,62 +278,74 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Common_Blue_Sow-thistle_%28Cicerbita_macrophylla%29_-_geograph.org.uk_-_660508.jpg/440px-Common_Blue_Sow-thistle_%28Cicerbita_macrophylla%29_-_geograph.org.uk_-_660508.jpg"
   },
   {
-    "speciesName": "Solanum mammosum (nipplefruit)",
+    "speciesName": "Solanum mammosum",
+    "commonName": "nipplefruit",
     "genusName": "Solanum",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Ab_plant_2377.jpg/440px-Ab_plant_2377.jpg"
   },
   {
-    "speciesName": "Solanum lycopersicum (tomato)",
+    "speciesName": "Solanum lycopersicum",
+    "commonName": "tomato",
     "genusName": "Solanum",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Tomato_je.jpg/440px-Tomato_je.jpg"
   },
   {
-    "speciesName": "Solanum tuberosum (potato)",
+    "speciesName": "Solanum tuberosum",
+    "commonName": "potato",
     "genusName": "Solanum",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Patates.jpg/440px-Patates.jpg"
   },
   {
-    "speciesName": "Solanum melongena (eggplant)",
+    "speciesName": "Solanum melongena",
+    "commonName": "eggplant",
     "genusName": "Solanum",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Solanum_melongena_24_08_2012_%281%29.JPG/440px-Solanum_melongena_24_08_2012_%281%29.JPG"
   },
   {
-    "speciesName": "Solanum seaforthianum (Brazilian nightshade)",
+    "speciesName": "Solanum seaforthianum",
+    "commonName": "Brazilian nightshade",
     "genusName": "Solanum",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Starr_020323-0062_Solanum_seaforthianum.jpg/440px-Starr_020323-0062_Solanum_seaforthianum.jpg"
   },
   {
     "speciesName": "Rosa rubiginosa",
+    "commonName": "sweetbriar rose",
     "genusName": "Rosa",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Rosa_rubiginosa_1.jpg/440px-Rosa_rubiginosa_1.jpg"
   },
   {
     "speciesName": "Rosa persica",
+    "commonName": "Persian rose",
     "genusName": "Rosa",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Rosa_persica%3B_Baikonur_01.jpg/440px-Rosa_persica%3B_Baikonur_01.jpg"
   },
   {
     "speciesName": "Rosa minutifolia",
+    "commonName": "Baja rose",
     "genusName": "Rosa",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Rosa_minutifolia_4.jpg/440px-Rosa_minutifolia_4.jpg"
   },
   {
     "speciesName": "Rosa stellata",
+    "commonName": "desert rose",
     "genusName": "Rosa",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Rosa_stellata_mirifica.jpg/440px-Rosa_stellata_mirifica.jpg"
   },
   {
     "speciesName": "Rosa gymnocarpa",
+    "commonName": "dwarf rose",
     "genusName": "Rosa",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Rosa_gymnocarpa_4957.JPG/440px-Rosa_gymnocarpa_4957.JPG"
   },
   {
     "speciesName": "Rosa sericea",
+    "commonName": "silky rose",
     "genusName": "Rosa",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Rosa_sericea_Pteracantha1UME.jpg/440px-Rosa_sericea_Pteracantha1UME.jpg"
   },
   {
     "speciesName": "Rosa moyesii",
+    "commonName": "Mandarin rose",
     "genusName": "Rosa",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Rosa-moyesii-flower.JPG/440px-Rosa-moyesii-flower.JPG"
   },
@@ -343,67 +355,80 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Fragaria_moupinensis.jpg/440px-Fragaria_moupinensis.jpg"
   },
   {
-    "speciesName": "Fragaria × ananassa (garden strawberry)",
+    "speciesName": "Fragaria × ananassa",
+    "commonName": "garden strawberry",
     "genusName": "Fragaria",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Garden_strawberry_%28Fragaria_%C3%97_ananassa%29_single2.jpg/440px-Garden_strawberry_%28Fragaria_%C3%97_ananassa%29_single2.jpg"
   },
   {
     "speciesName": "Fragaria daltoniana",
+    "commonName": "Sikkim strawberry",
     "genusName": "Fragaria",
     "image": "https://upload.wikimedia.org/wikipedia/commons/9/99/Fragaria_daltoniana.jpg"
   },
   {
-    "speciesName": "Fragaria vesca (woodland strawberry)",
+    "speciesName": "Fragaria vesca",
+    "commonName": "woodland strawberry",
     "genusName": "Fragaria",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Fragaria_vesca_-_metsmaasikas.jpg/440px-Fragaria_vesca_-_metsmaasikas.jpg"
   },
   {
     "speciesName": "Fragaria viridis",
+    "commonName": "green strawberry",
     "genusName": "Fragaria",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Fragaria-viridis.JPG/440px-Fragaria-viridis.JPG"
   },
   {
-    "speciesName": "Prunus cerasus (sour cherry tree)",
+    "speciesName": "Prunus cerasus",
+    "commonName": "sour cherry tree",
     "genusName": "Prunus",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Fr%C3%BChling_bl%C3%BChender_Kirschenbaum.jpg/440px-Fr%C3%BChling_bl%C3%BChender_Kirschenbaum.jpg"
   },
   {
-    "speciesName": "Prunus armeniaca (apricot tree)",
+    "speciesName": "Prunus armeniaca",
+    "commonName": "apricot tree",
     "genusName": "Prunus",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Packard_apricots.jpg/440px-Packard_apricots.jpg"
   },
   {
-    "speciesName": "Prunus americana (American plum tree)",
+    "speciesName": "Prunus americana",
+    "commonName": "American plum tree",
     "genusName": "Prunus",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Pram_004_php.jpg/440px-Pram_004_php.jpg"
   },
   {
-    "speciesName": "Prunus fasciculata (wild almond shrub)",
+    "speciesName": "Prunus fasciculata",
+    "commonName": "wild almond shrub",
     "genusName": "Prunus",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Prunus_fasciculata_7792.JPG/440px-Prunus_fasciculata_7792.JPG"
   },
   {
-    "speciesName": "Lilium candidum (Madonna lily)",
+    "speciesName": "Lilium candidum",
+    "commonName": "Madonna lily",
     "genusName": "Lilium",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Lilium_candidum_1.jpg/360px-Lilium_candidum_1.jpg"
   },
   {
-    "speciesName": "Lilium henryi (tiger lily)",
+    "speciesName": "Lilium henryi",
+    "commonName": "tiger lily",
     "genusName": "Lilium",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Lilium_henryi_Inflorescence_BotGardBln0806a.JPG/440px-Lilium_henryi_Inflorescence_BotGardBln0806a.JPG"
   },
   {
     "speciesName": "Lilium mackliniae",
+    "commonName": "Shirui lily",
     "genusName": "Lilium",
     "image": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Lilium_mackliniae.jpg"
   },
   {
     "speciesName": "Lilium martagon",
+    "commonName": "Turk's cap lily",
     "genusName": "Lilium",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/T%C3%BCrkenbund_Lilie%2C_Lilium_martagon_2.JPG/440px-T%C3%BCrkenbund_Lilie%2C_Lilium_martagon_2.JPG"
   },
   {
-    "speciesName": "Lilium pardalinum (leopard lily)",
+    "speciesName": "Lilium pardalinum",
+    "commonName": "leopard lily",
     "genusName": "Lilium",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Lewiston_lake_Leopard_Lily.jpg/440px-Lewiston_lake_Leopard_Lily.jpg"
   },
@@ -413,7 +438,8 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Lys_royal_FR_2012.jpg/440px-Lys_royal_FR_2012.jpg"
   },
   {
-    "speciesName": "Tulipa clusiana (lady tulip)",
+    "speciesName": "Tulipa clusiana",
+    "commonName": "lady tulip",
     "genusName": "Tulipa",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Tulip_Tulipa_clusiana_%27Lady_Jane%27_Rock_Ledge_Flower_2000px.jpg/440px-Tulip_Tulipa_clusiana_%27Lady_Jane%27_Rock_Ledge_Flower_2000px.jpg"
   },
