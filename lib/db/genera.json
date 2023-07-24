@@ -87,56 +87,48 @@
     "genusName": "Lilium",
     "familyName": "Liliaceae",
     "description": "Lilium is a genus of herbaceous flowering plants growing from bulbs, all with large prominent flowers. They are the true lilies. Many other plants have 'lily' in their common names, but do not belong to the same genus and are therefore not true lilies.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Lilium_candidum_1.jpg/440px-Lilium_candidum_1.jpg",
     "species": [ "Lilium candidum (Madonna lily)", "Lilium henryi (tiger lily)", "Lilium mackliniae", "Lilium martagon", "Lilium pardalinum (leopard lily)", "Lilium regale (regal lily)" ]
   },
   {
     "genusName": "Tulipa",
     "familyName": "Liliaceae",
     "decription": "Tulipa is a genus of spring-blooming perennial herbaceous bulbiferous geophytes (having bulbs as storage organs). The flowers are usually large, showy and brightly coloured, generally red, orange, pink, yellow, or white (usually in warm colours). They often have a different coloured blotch at the base of the tepals (petals and sepals, collectively), internally. Tulip petals are edible. The taste varies by variety and season, and is roughly similar to lettuce or other salad greens. Some people are allergic to tulips.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Tulip_Tulipa_clusiana_%27Lady_Jane%27_Rock_Ledge_Flower_2000px.jpg/440px-Tulip_Tulipa_clusiana_%27Lady_Jane%27_Rock_Ledge_Flower_2000px.jpg",
-    "species": [ "Tulipa clusiana (lady tulip)", "Tulipa gesneriana (garden tulip)", "Tulipa kaufmanniana (water lily tulip)", " Tulipa humilis", "Tulipa saxatilis" ]
+    "species": [ "Tulipa clusiana (lady tulip)", "Tulipa gesneriana (garden tulip)", "Tulipa kaufmanniana (water lily tulip)", "Tulipa humilis", "Tulipa saxatilis" ]
   },
   {
     "genusName": "Amaranthus",
     "familyName": "Amaranthaceae",
     "decription": "Amaranthus is a cosmopolitan genus of annual or short-lived perennial plants collectively known as amaranths. Some amaranth species are cultivated as leaf vegetables, pseudocereals, and ornamental plants. Flowers are radially symmetric and either bisexual or unisexual with very small, bristly perianth and pointy bracts.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Amaranthus_tricolor0.jpg/440px-Amaranthus_tricolor0.jpg",
     "species": [ "Amaranthus tricolor", "Amaranthus pumilus (seaside amaranth)", "Amaranthus viridis (green amaranth)", "Amaranthus caudatus (love-lies-bleeding)" ]
   },
   {
     "genusName": "Celosia",
     "familyName": "Amaranthaceae",
     "decription": "Celosia is a small genus of edible and ornamental plants. Its species are commonly known as woolflowers, or, if the flower heads are crested by fasciation, cockscombs.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Celosia_spicata.jpg/440px-Celosia_spicata.jpg",
     "species": [ "Celosia spicata", "Celosia cristata (cockscomb)", "Celosia argentea (plumed cockscomb)", "Celosia trigyna (woolflower)" ]
   },
   {
     "genusName": "Ananas",
     "familyName": "Bromeliaceae",
     "decription": "Ananas is a plant genus native to South America. The genus contains Ananas comosus, the pineapple.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Ananas_macrodontes_in_a_botanical_garden_in_M%C3%BCnster%2C_Germany.jpg/440px-Ananas_macrodontes_in_a_botanical_garden_in_M%C3%BCnster%2C_Germany.jpg",
     "species": [ "Ananas macrodontes (false pineapple)", "Ananas comosus (pineapple)" ]
   },
   {
     "genusName": "Anacardium",
     "familyName": "Anacardiaceae",
     "decription": "Anacardium, the cashews, are a genus of flowering plants native to tropical regions of the Americas. The best known species is Anacardium occidentale, which is commercially cultivated for its cashew nuts and cashew apples.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Anacardium_occidentale_MS_4693.JPG/440px-Anacardium_occidentale_MS_4693.JPG",
     "species": [ "Anacardium occidentale (cashew tree)", "Anacardium humile" ]
   },
   {
     "genusName": "Toxicodendron",
     "familyName": "Anacardiaceae",
     "decription": "Toxicodendron is a genus of flowering plants in the sumac family, Anacardiaceae. It contains trees, shrubs and woody vines, including poison ivy, poison oak, and the lacquer tree. All members of the genus produce the skin-irritating oil urushiol, which can cause a severe allergic reaction.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Toxicodendron_radicans%2C_leaves.jpg/440px-Toxicodendron_radicans%2C_leaves.jpg",
     "species": [ "Toxicodendron radicans (poison ivy)", "Toxicodendron diversilobum (western poison oak)", "Toxicodendron pubescens (Atlantic poison oak)", "Toxicodendron vernicifluum (Chinese lacquer tree)" ]
   },
   {
     "genusName": "Dianthus",
     "familyName": "Caryophyllaceae",
     "decription": "Dianthus is a genus of about 340 species of flowering plants native mainly to Europe and Asia, with a few species in north Africa and in southern Africa, and one species in arctic North America. Common names include carnation, pink and sweet William. The species are mostly herbaceous perennials, a few are annual or biennial, and some are low subshrubs with woody basal stems. The leaves are opposite, simple, mostly linear and often strongly glaucous grey green to blue green. The flowers have five petals, typically with a frilled or pinked margin, and are (in almost all species) pale to dark pink.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/W_carnation4051.jpg/440px-W_carnation4051.jpg",
     "species": [ "Dianthus caryophyllus (carnation)", "Dianthus acicularis", "Dianthus alpinus", "Dianthus barbatus (sweet William)", "Dianthus basuticus (Drakensberg carnation)", "Dianthus monspessulanus (fringed pink)" ]
   },
   {
