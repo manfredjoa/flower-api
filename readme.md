@@ -2,11 +2,15 @@
 
 ## Introduction
 
-Welcome to my Plants API!
+Welcome to my Plants API! I wanted to challenge myself for this project by creating my very own API, which in order from less specific to more specific, contains 10 different plant families, 26 different plant genera, and 112 different plant species.
+
+Within this API, each of the species belong to a genus, which belongs to a family. For example, you cannot find a plant species whose genus or family is not contained within the API. The species Pachystachys coccinea belongs to the genus of Pachystachys, which belongs to the Acanthaceae family.
 
 ## How to Use
 
 ## Data Model
+
+The database for this project is built using MongoDB and Mongoose, and contains three collections: "families", "genuses", and "species". "Genuses" is the less professional version of the scientific term "genera", which are both plural for genus, but genuses was used as the name of the collection due to MongoDB pluralizing collection names. You can consider "genuses" and "genera" interchangeable within this API.
 
 ### Family Schema
 
