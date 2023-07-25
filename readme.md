@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Welcome to my Plants API! I wanted to challenge myself for this project by creating my very own API, which in order from less specific to more specific classifications, contains 10 plant families, 26 plant genera, and 112 plant species.
+Welcome to my Plants API! I wanted to challenge myself for this project by creating my very own API, which in order from less specific to more specific classifications, contains 10 plant families, 25 plant genera, and 112 plant species.
 
 Within this API, each of the species belong to a genus, which belongs to a family. For example the following photos of data show that you cannot find a plant species whose genus or family is not contained within the API.
 
