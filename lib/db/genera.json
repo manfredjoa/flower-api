@@ -3,19 +3,19 @@
     "genusName": "Pachystachys",
     "familyName": "Acanthaceae",
     "description": "Pachystachys is a genus of 12 species of flowering plants in the family Acanthaceae, native to rainforest in the Caribbean and Central and South America. They are evergreen perennials and shrubs bearing prominent terminal spikes of flowers with brightly coloured bracts.",
-    "species": [ "Pachystachys lutea (lollipop plant)", "Pachystachys coccinea" ]
+    "species": [ "Pachystachys lutea", "Pachystachys coccinea" ]
   },
   {
     "genusName": "Aphelandra",
     "familyName": "Acanthaceae",
     "description": "Aphelandra is a genus of about 170 species of flowering plants in the family Acanthaceae, native to tropical regions of the Americas. They are evergreen shrubs growing to 1–2 m tall, with opposite, simple leaves 5–30 cm long, often with white veins. The flowers are produced in dense spikes, with brightly coloured bracts. Several species are grown as houseplants for their patterned leaves and brightly coloured inflorescences.",
-    "species": [ "Aphelandra squarrosa (zebra plant)", "Aphelandra sinclairiana" ]
+    "species": [ "Aphelandra squarrosa", "Aphelandra sinclairiana" ]
   },
   {
     "genusName": "Hypoestes",
     "familyName": "Acanthaceae",
     "description": "Hypoestes is a flowering plant genus of about 150 species. They are widely distributed throughout the tropical and subtropical lands around the Indian Ocean, and some adjacent regions. Many of these herbaceous to small shrubby plants of the undergrowth have boldly patterned leaves, typically featuring red colors.",
-    "species": [ "Hypoestes phyllostachya (polka dot plant)", "Hypoestes floribunda", "Hypoestes forskaolii" ]
+    "species": [ "Hypoestes phyllostachya", "Hypoestes floribunda", "Hypoestes forskaolii" ]
   },
   {
     "genusName": "Chrysanthemum",
@@ -27,25 +27,25 @@
     "genusName": "Bellis",
     "familyName": "Asteraceae",
     "description": "Bellis is native to Europe, the Mediterranean and northern Africa. One species has been introduced into North America and others into other parts of the world. The genus includes the familiar common daisy Bellis perennis.",
-    "species": [ "Bellis perennis (common daisy)", "Bellis annua", "Bellis rotundifolia", "Bellis sylvestris" ]
+    "species": [ "Bellis perennis", "Bellis annua", "Bellis rotundifolia", "Bellis sylvestris" ]
   },
   {
     "genusName": "Helianthus",
     "familyName": "Asteraceae",
     "description": "Helianthus is a genus comprising about 70 species of annual and perennial flowering plants in the daisy family Asteraceae commonly known as sunflowers. Except for three South American species, the species of Helianthus are native to North America and Central America. They are cultivated in temperate regions and some tropical regions, as food crops for humans, cattle, and poultry, and as ornamental plants.",
-    "species": [ "Helianthus annuus (common sunflower)", "Helianthus bolanderi", "Helianthus californicus", "Helianthus debilis", "Helianthus giganteus", "Helianthus maximiliani", "Helianthus tuberosus" ]
+    "species": [ "Helianthus annuus", "Helianthus bolanderi", "Helianthus californicus", "Helianthus debilis", "Helianthus giganteus", "Helianthus maximiliani", "Helianthus tuberosus" ]
   },
   {
     "genusName": "Taraxacum",
     "familyName": "Asteraceae",
     "description": "Taraxacum is a large genus of flowering plants which consists of species commonly known as dandelions. Like other members of the family Asteraceae, they have very small flowers collected together into a composite flower head. Each single flower in a head is called a floret. In part due to their abundance, along with being a generalist species, dandelions are one of the most vital early spring nectar sources for a wide host of pollinators.",
-    "species": [ "Taraxacum officinale (common dandelion)", "Taraxacum albidum", "Taraxacum californicum", "Taraxacum japonicum", "Taraxacum platycarpum", "Taraxacum pseudoroseum" ]
+    "species": [ "Taraxacum officinale", "Taraxacum albidum", "Taraxacum californicum", "Taraxacum japonicum", "Taraxacum platycarpum", "Taraxacum pseudoroseum" ]
   },
   {
     "genusName": "Tagetes",
     "familyName": "Asteraceae",
     "description": "Tagetes is a genus of 50 species of annual or perennial, mostly herbaceous plants. Most species have pinnate green leaves. Blooms naturally occur in golden, orange, yellow, and white colors, often with maroon highlights.",
-    "species": [ "Tagetes erecta (Aztec marigold)", "Tagetes lemmonii", "Tagetes linifolia", "Tagetes mendocina", "Tagetes nelsonii", "Tagetes patula", "Tagetes tenuifolia" ]
+    "species": [ "Tagetes erecta", "Tagetes lemmonii", "Tagetes linifolia", "Tagetes mendocina", "Tagetes nelsonii", "Tagetes patula", "Tagetes tenuifolia" ]
   },
   {
     "genusName": "Dahlia",
@@ -57,13 +57,13 @@
     "genusName": "Lactuca",
     "familyName": "Asteraceae",
     "description": "Lactuca, commonly known as lettuce, is a genus of flowering plants, including at least 50 species distributed worldwide, but mainly in temperate Eurasia. Lactuca species are diverse and take a wide variety of forms. They are annuals, biennials, perennials, or shrubs. Their flower heads have yellow, blue, or white ray florets. Some species are bitter-tasting.",
-    "species": [ "Lactuca tuberosa", "Lactuca canadensis (Canada lettuce)", "Lactuca floridana (Florida lettuce)", "Lactuca indica (Indian lettuce)", "Lactuca macrophylla (common blue-sow-thistle)" ]
+    "species": [ "Lactuca tuberosa", "Lactuca canadensis", "Lactuca floridana", "Lactuca indica", "Lactuca macrophylla" ]
   },
   {
     "genusName": "Solanum",
     "familyName": "Solanaceae",
     "description": "Solanum is a large and diverse genus of flowering plants, which include three food crops of high economic importance: the potato, the tomato and the eggplant. It is the largest genus in the nightshade family Solanaceae, comprising around 1,500 species. It also contains the so-called horse nettles, as well as numerous plants cultivated for their ornamental flowers and fruit.",
-    "species": [ "Solanum mammosum (nipplefruit)", "Solanum lycopersicum (tomato)", "Solanum tuberosum (potato)", "Solanum melongena (eggplant)", "Solanum seaforthianum (Brazilian nightshade)" ]
+    "species": [ "Solanum mammosum", "Solanum lycopersicum", "Solanum tuberosum", "Solanum melongena", "Solanum seaforthianum" ]
   },
   {
     "genusName": "Rosa",
@@ -75,78 +75,78 @@
     "genusName": "Fragaria",
     "familyName": "Rosaceae",
     "description": "Fragaria is a genus of flowering plants commonly known as strawberries for their edible fruits. There are more than 20 described species and many hybrids and cultivars. Strawberries are not berries in the botanical sense. The fleshy and edible part of the 'fruit' is a receptacle, and the parts that are sometimes mistakenly called 'seeds' are achenes and therefore the true botanical fruits.",
-    "species": [ "Fragaria moupinesis", "Fragaria × ananassa (garden strawberry)", "Fragaria daltoniana", "Fragaria vesca (woodland strawberry)", "Fragaria viridis" ]
+    "species": [ "Fragaria moupinesis", "Fragaria × ananassa", "Fragaria daltoniana", "Fragaria vesca", "Fragaria viridis" ]
   },
   {
     "genusName": "Prunus",
     "familyName": "Rosaceae",
     "description": "Prunus is a genus of trees and shrubs, which includes (among many others) the fruits plums, cherries, peaches, nectarines, apricots, and almonds. Native to the North American temperate regions, the neotropics of South America, and the paleotropics of Asia and Africa, 430 different species are classified under Prunus. Many members of the genus are widely cultivated for their fruit and for decorative purposes. The fruits of Prunus often contain many phytochemicals and antioxidants. These compounds have properties that have been linked to preventing different diseases and disorders.",
-    "species": [ "Prunus cerasus (sour cherry tree)", "Prunus armeniaca (apricot tree)", "Prunus americana (American plum tree)", "Prunus fasciculata (wild almond shrub)" ]
+    "species": [ "Prunus cerasus", "Prunus armeniaca", "Prunus americana", "Prunus fasciculata" ]
   },
   {
     "genusName": "Lilium",
     "familyName": "Liliaceae",
     "description": "Lilium is a genus of herbaceous flowering plants growing from bulbs, all with large prominent flowers. They are the true lilies. Many other plants have 'lily' in their common names, but do not belong to the same genus and are therefore not true lilies.",
-    "species": [ "Lilium candidum (Madonna lily)", "Lilium henryi (tiger lily)", "Lilium mackliniae", "Lilium martagon", "Lilium pardalinum (leopard lily)", "Lilium regale (regal lily)" ]
+    "species": [ "Lilium candidum", "Lilium henryi", "Lilium mackliniae", "Lilium martagon", "Lilium pardalinum", "Lilium regale" ]
   },
   {
     "genusName": "Tulipa",
     "familyName": "Liliaceae",
     "decription": "Tulipa is a genus of spring-blooming perennial herbaceous bulbiferous geophytes (having bulbs as storage organs). The flowers are usually large, showy and brightly coloured, generally red, orange, pink, yellow, or white (usually in warm colours). They often have a different coloured blotch at the base of the tepals (petals and sepals, collectively), internally. Tulip petals are edible. The taste varies by variety and season, and is roughly similar to lettuce or other salad greens. Some people are allergic to tulips.",
-    "species": [ "Tulipa clusiana (lady tulip)", "Tulipa gesneriana (garden tulip)", "Tulipa kaufmanniana (water lily tulip)", "Tulipa humilis", "Tulipa saxatilis" ]
+    "species": [ "Tulipa clusiana", "Tulipa gesneriana", "Tulipa kaufmanniana", "Tulipa humilis", "Tulipa saxatilis" ]
   },
   {
     "genusName": "Amaranthus",
     "familyName": "Amaranthaceae",
     "decription": "Amaranthus is a cosmopolitan genus of annual or short-lived perennial plants collectively known as amaranths. Some amaranth species are cultivated as leaf vegetables, pseudocereals, and ornamental plants. Flowers are radially symmetric and either bisexual or unisexual with very small, bristly perianth and pointy bracts.",
-    "species": [ "Amaranthus tricolor", "Amaranthus pumilus (seaside amaranth)", "Amaranthus viridis (green amaranth)", "Amaranthus caudatus (love-lies-bleeding)" ]
+    "species": [ "Amaranthus tricolor", "Amaranthus pumilus", "Amaranthus viridis", "Amaranthus caudatus" ]
   },
   {
     "genusName": "Celosia",
     "familyName": "Amaranthaceae",
     "decription": "Celosia is a small genus of edible and ornamental plants. Its species are commonly known as woolflowers, or, if the flower heads are crested by fasciation, cockscombs.",
-    "species": [ "Celosia spicata", "Celosia cristata (cockscomb)", "Celosia argentea (plumed cockscomb)", "Celosia trigyna (woolflower)" ]
+    "species": [ "Celosia spicata", "Celosia cristata", "Celosia argentea", "Celosia trigyna" ]
   },
   {
     "genusName": "Ananas",
     "familyName": "Bromeliaceae",
     "decription": "Ananas is a plant genus native to South America. The genus contains Ananas comosus, the pineapple.",
-    "species": [ "Ananas macrodontes (false pineapple)", "Ananas comosus (pineapple)" ]
+    "species": [ "Ananas macrodontes", "Ananas comosus" ]
   },
   {
     "genusName": "Anacardium",
     "familyName": "Anacardiaceae",
     "decription": "Anacardium, the cashews, are a genus of flowering plants native to tropical regions of the Americas. The best known species is Anacardium occidentale, which is commercially cultivated for its cashew nuts and cashew apples.",
-    "species": [ "Anacardium occidentale (cashew tree)", "Anacardium humile" ]
+    "species": [ "Anacardium occidentale", "Anacardium humile" ]
   },
   {
     "genusName": "Toxicodendron",
     "familyName": "Anacardiaceae",
     "decription": "Toxicodendron is a genus of flowering plants in the sumac family, Anacardiaceae. It contains trees, shrubs and woody vines, including poison ivy, poison oak, and the lacquer tree. All members of the genus produce the skin-irritating oil urushiol, which can cause a severe allergic reaction.",
-    "species": [ "Toxicodendron radicans (poison ivy)", "Toxicodendron diversilobum (western poison oak)", "Toxicodendron pubescens (Atlantic poison oak)", "Toxicodendron vernicifluum (Chinese lacquer tree)" ]
+    "species": [ "Toxicodendron radicans", "Toxicodendron diversilobum", "Toxicodendron pubescens", "Toxicodendron vernicifluum" ]
   },
   {
     "genusName": "Dianthus",
     "familyName": "Caryophyllaceae",
     "decription": "Dianthus is a genus of about 340 species of flowering plants native mainly to Europe and Asia, with a few species in north Africa and in southern Africa, and one species in arctic North America. Common names include carnation, pink and sweet William. The species are mostly herbaceous perennials, a few are annual or biennial, and some are low subshrubs with woody basal stems. The leaves are opposite, simple, mostly linear and often strongly glaucous grey green to blue green. The flowers have five petals, typically with a frilled or pinked margin, and are (in almost all species) pale to dark pink.",
-    "species": [ "Dianthus caryophyllus (carnation)", "Dianthus acicularis", "Dianthus alpinus", "Dianthus barbatus (sweet William)", "Dianthus basuticus (Drakensberg carnation)", "Dianthus monspessulanus (fringed pink)" ]
+    "species": [ "Dianthus caryophyllus", "Dianthus acicularis", "Dianthus alpinus", "Dianthus barbatus", "Dianthus basuticus", "Dianthus monspessulanus" ]
   },
   {
     "genusName": "Gypsophila",
     "familyName": "Caryophyllaceae",
     "decription": "Gypsophila is a genus of flowering plants in the carnation family, Caryophyllaceae. They are native to Eurasia, Africa, Australia, and the Pacific Islands. Each small flower has a cup-like calyx of white-edged green sepals containing five petals in shades of white or pink. The fruit is a rounded or oval capsule opening at valves.",
-    "species": [ "Gypsophila repens (creeping baby's breath)", "Gypsophila elegans (showy baby's breath)", "Gypsophila fastigiata", "Gypsophila oldhamiana", "Gypsophila paniculata (common gypsophila)" ]
+    "species": [ "Gypsophila repens", "Gypsophila elegans", "Gypsophila fastigiata", "Gypsophila oldhamiana", "Gypsophila paniculata" ]
   },
   {
     "genusName": "Cortaderia",
     "familyName": "Poaceae",
     "decription": "Cortaderia is a genus of South American and Central American plants. The species of Cortaderia are imposing tall grasses growing 1.5–3 m tall, with graceful white inflorescence plumes. They are in widespread use as ornamental plants.",
-    "species": [ "Cortaderia selloana (pampas grass)", "Cortaderia jubata (purple pampas grass)" ]
+    "species": [ "Cortaderia selloana", "Cortaderia jubata" ]
   },
   {
     "genusName": "Cymbopogon",
     "familyName": "Poaceae",
     "decription": "Cymbopogon, also known as lemongrass, barbed wire grass, silky heads, Cochin grass, Malabar grass, oily heads, citronella grass or fever grass, is a genus of Asian, African, Australian, and tropical island plants in the grass family. Some species are commonly cultivated as culinary and medicinal herbs because of their scent, resembling that of lemons. Lemongrass and its oil are believed to possess therapeutic properties.",
-    "species": [ "Cymbopogon citratus (lemongrass)", "Cymbopogon bombycinus (citronella grass)", "Cymbopogon martinii (palmarosa)", "Cymbopogon winterianus (java citronella)" ]
+    "species": [ "Cymbopogon citratus", "Cymbopogon bombycinus", "Cymbopogon martinii", "Cymbopogon winterianus" ]
   }
 ]
