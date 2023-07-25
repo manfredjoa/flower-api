@@ -2,15 +2,19 @@
 
 ## Introduction
 
-Welcome to my Plants API! I wanted to challenge myself for this project by creating my very own API, which in order from less specific to more specific, contains 10 different plant families, 26 different plant genera, and 112 different plant species.
+Welcome to my Plants API! I wanted to challenge myself for this project by creating my very own API, which in order from less specific to more specific classifications, contains 10 plant families, 26 plant genera, and 112 plant species.
 
 Within this API, each of the species belong to a genus, which belongs to a family. For example, you cannot find a plant species whose genus or family is not contained within the API. The species Pachystachys coccinea belongs to the genus of Pachystachys, which belongs to the Acanthaceae family.
+
+![Species name Pachystachys coccinea, with genus name Pachystachys](<Screenshot 2023-07-25 at 3.02.41 PM.png>)
+![Genus name Pachystachys listing Pachystachys coccinea as one of its species, with family name Acanthaceae](<Screenshot 2023-07-25 at 3.02.05 PM.png>)
+![Family name Acanthaceae listing Pachystachys as one of its genera](<Screenshot 2023-07-25 at 3.04.24 PM.png>)
 
 ## How to Use
 
 ## Data Model
 
-The database for this project is built using MongoDB and Mongoose, and contains three collections: "families", "genuses", and "species". "Genuses" is the less professional version of the scientific term "genera", which are both plural for genus, but genuses was used as the name of the collection due to MongoDB pluralizing collection names. You can consider "genuses" and "genera" interchangeable within this API.
+The database for this project is built using MongoDB and Mongoose, and contains three collections: "families", "genuses", and "species". "Genuses" is the less professional version of the scientific term "genera", which are both plural for genus, but I decided to use genuses as the name of the collection due to MongoDB pluralizing collection names. You can consider "genuses" and "genera" interchangeable within this API.
 
 ### Family Schema
 
