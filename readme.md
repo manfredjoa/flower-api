@@ -114,8 +114,9 @@ The database for this project is built using MongoDB and Mongoose, and contains 
 #### GET
 
 - **_/api/genera_** - Returns a list of all genera
-- **_/api/genera/:genusName_** - Returns a genus by genusName (first letter is not case sensitive and can be entered either uppercase or lowercase)
+- **_/api/genera/:genusName_** - Returns a genus by genusName (first letter not case sensitive)
 - **_/api/genera/id/:id_** - Returns a genus by id
+- **_/api/genera/family/:familyName_** - Returns all genera belonging to the same familyName (first letter not case sensitive)
 
 #### POST
 
@@ -136,9 +137,10 @@ The database for this project is built using MongoDB and Mongoose, and contains 
 #### GET
 
 - **_/api/species_** - Returns a list of all species
-- **_/api/species/:speciesName_** - Returns a species by speciesName (first letter is not case sensitive and can be entered either uppercase or lowercase)
+- **_/api/species/:speciesName_** - Returns a species by speciesName (first letter not case sensitive)
 - **_/api/species/common-name/:commonName_** - Returns a species by commonName
 - **_/api/species/id/:id_** - Returns a species by id
+- **_/api/species/genus/:genusName_** - Returns all species belonging to the same genusName (first letter not case sensitive)
 
 #### POST
 
@@ -186,6 +188,18 @@ npm run dev
 ```
 http://localhost:3000/api
 ```
+
+## Next Steps
+
+- Pagination
+- Creating a function where when a species or genus is created, its name is also pushed into its parent's array that lists its genera or species. For example, if species Pachystachys somename is created, the data showing the Pachystachys genus will include Pachystachys somename in its array of species. If genus somegenus is created and belongs to the Acanthaceae family, the data showing the Acanthaceae family will include somegenus in its array of genera.
+- Creating a function where you don't have to worry about case sensitivity for the whole entire word, not just the first letter. This is especially important for the species get request by common name, in which there is variance in the capitalization of the strings, whereas the family, genus, and species names are all consistent in that the first letter is capitalized. I am aware however, that this can all be avoided by just having the common name data seeded in a consistent format.
+
+## Thoughts
+
+I loved that I was able to take this project as an opportunity to build my own API and create data with a model nested within a model, nested within another model.
+
+Being able to create a function to allow the user to not worry about capitalizing the first letter when searching by the family, genus, or species name was very satisfying.
 
 ## Resources
 
