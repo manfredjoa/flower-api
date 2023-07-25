@@ -8,7 +8,7 @@ Within this API, each of the species belong to a genus, which belongs to a famil
 
 <br>
 
-![](<Family data.png>)
+![](<Species data.png>)
 This shows that the species Pachystachys coccinea belongs to the Pachystachys genus.
 
 ---
@@ -22,7 +22,7 @@ This shows that the Pachystachys genus belongs to the Acanthaceae family and con
 
 <br>
 
-![](<Species data.png>)
+![](<Family data.png>)
 This shows that the Acanthaceae family contains the Pachystachys genus.
 
 ---
