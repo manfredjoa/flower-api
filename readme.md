@@ -10,6 +10,8 @@ Within this API, each of the species belong to a genus, which belongs to a famil
 
 **_Please refer to the CRUD Functionality section to see more specific endpoints._**
 
+It will help to have a browser extension such as [JSONVue](https://chrome.google.com/webstore/detail/jsonvue/chklaanhfefbnpoihckbnefhakgolnmc) to parse the data into a readable json format.
+
 To see all families:
 
 ```
@@ -169,3 +171,12 @@ http://localhost:3000/api
 ```
 
 ## Resources
+
+- [Wikipedia](https://www.wikipedia.org/)
+- [Node](https://nodejs.org/en)
+- [Express](https://expressjs.com/)
+- [MongoDB](https://www.mongodb.com/)
+- [Mongoose](https://mongoosejs.com/)
+- [JSONVue](https://chrome.google.com/webstore/detail/jsonvue/chklaanhfefbnpoihckbnefhakgolnmc)
+- [CORS](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)
+- [Postman](https://www.postman.com/)
