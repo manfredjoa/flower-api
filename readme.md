@@ -6,11 +6,31 @@ Welcome to my Plants API! I wanted to challenge myself for this project by creat
 
 Within this API, each of the species belong to a genus, which belongs to a family. For example, you cannot find a plant species whose genus or family is not contained within the API. The species Pachystachys coccinea belongs to the genus of Pachystachys, which belongs to the Acanthaceae family.
 
-![Species name Pachystachys coccinea, with genus name Pachystachys](<Screenshot 2023-07-25 at 3.02.41 PM.png>)
-![Genus name Pachystachys listing Pachystachys coccinea as one of its species, with family name Acanthaceae](<Screenshot 2023-07-25 at 3.02.05 PM.png>)
-![Family name Acanthaceae listing Pachystachys as one of its genera](<Screenshot 2023-07-25 at 3.04.24 PM.png>)
+### How to Use
 
-## How to Use
+Please refer to the CRUD Functionality section to see more specific endpoints.
+
+To see all families:
+
+```
+https://manfredjoa-plants-api-56ca2fc58166.herokuapp.com/api/families
+```
+
+To see all genera:
+
+```
+https://manfredjoa-plants-api-56ca2fc58166.herokuapp.com/api/genera
+```
+
+To see all species:
+
+```
+https://manfredjoa-plants-api-56ca2fc58166.herokuapp.com/api/species
+```
+
+<!-- ![Species name Pachystachys coccinea, with genus name Pachystachys](<Screenshot 2023-07-25 at 3.02.41 PM.png>)
+![Genus name Pachystachys listing Pachystachys coccinea as one of its species, with family name Acanthaceae](<Screenshot 2023-07-25 at 3.02.05 PM.png>)
+![Family name Acanthaceae listing Pachystachys as one of its genera](<Screenshot 2023-07-25 at 3.04.24 PM.png>) -->
 
 ## Data Model
 
@@ -116,3 +136,10 @@ The database for this project is built using MongoDB and Mongoose, and contains 
 ## Installation
 
 ## Resources
+
+````
+
+```
+
+```
+````
