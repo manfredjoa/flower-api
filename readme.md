@@ -4,7 +4,28 @@
 
 Welcome to my Plants API! I wanted to challenge myself for this project by creating my very own API, which in order from less specific to more specific classifications, contains 10 plant families, 26 plant genera, and 112 plant species.
 
-Within this API, each of the species belong to a genus, which belongs to a family. For example, you cannot find a plant species whose genus or family is not contained within the API. The species Pachystachys coccinea belongs to the genus of Pachystachys, which belongs to the Acanthaceae family.
+Within this API, each of the species belong to a genus, which belongs to a family. For example the following photos of data show that you cannot find a plant species whose genus or family is not contained within the API.
+
+<br>
+
+![](<Screenshot 2023-07-25 at 4.01.22 PM.png>)
+This shows that the species Pachystachys coccinea belongs to the Pachystachys genus.
+
+---
+
+<br>
+
+![](<Screenshot 2023-07-25 at 4.00.11 PM.png>)
+This shows that the Pachystachys genus belongs to the Acanthaceae family and contains the species Pachystachys coccinea.
+
+---
+
+<br>
+
+![](<Screenshot 2023-07-25 at 3.59.03 PM.png>)
+This shows that the Acanthaceae family contains the Pachystachys genus.
+
+---
 
 ### How to Use
 
@@ -29,10 +50,6 @@ To see all species:
 ```
 https://manfredjoa-plants-api-56ca2fc58166.herokuapp.com/api/species
 ```
-
-![Species name Pachystachys coccinea, with genus name Pachystachys](<Screenshot 2023-07-25 at 3.02.41 PM.png>)
-![Genus name Pachystachys listing Pachystachys coccinea as one of its species, with family name Acanthaceae](<Screenshot 2023-07-25 at 3.02.05 PM.png>)
-![Family name Acanthaceae listing Pachystachys as one of its genera](<Screenshot 2023-07-25 at 3.04.24 PM.png>)
 
 ## Data Model
 
