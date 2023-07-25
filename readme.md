@@ -31,7 +31,7 @@ This shows that the Acanthaceae family contains the Pachystachys genus.
 
 **_Please refer to the CRUD Functionality section to see more specific endpoints._**
 
-It will help to have a browser extension such as [JSONVue](https://chrome.google.com/webstore/detail/jsonvue/chklaanhfefbnpoihckbnefhakgolnmc) to parse the data into a readable json format.
+It will help to have a browser extension such as [JSONVue](https://chrome.google.com/webstore/detail/jsonvue/chklaanhfefbnpoihckbnefhakgolnmc) to parse the data into a more readable json format.
 
 To see all families:
 
@@ -199,7 +199,15 @@ http://localhost:3000/api
 
 I loved that I was able to take this project as an opportunity to build my own API and create data with a model nested within a model, nested within another model.
 
-Being able to create a function to allow the user to not worry about capitalizing the first letter when searching by the family, genus, or species name was very satisfying.
+Being able to create a function to allow the user to not worry about capitalizing the first letter when searching by the family, genus, or species name was very satisfying. I will be working on extending this functionality to searching by the species' common name.
+
+I ran into an issue in which when I did not pass a parameter or incorrectly passed a parameter, an empty array would be returned instead of an error message. For example, when using endpoint /api/species/common-name/:commonName to get a species by its common name, typing in /api/species/common-name/ or /api/species/common-name/abc would both return [].
+
+I spent a lot of time in my console using logs to figure out how to fix this, and I ended up changing the order of my conditionals to first check if the length of the json object being returned was 0, which would be the result of the parameter being passed not equaling any value being searched for in the mongoose find criteria. If the length equaled 0, it would return the error stating that the family/genus/species was not found. Else, it would continue responding with what they were requesting.
+
+This fixed the issue with typing in an incorrect parameter, but using /api/species/common-name/ as the endpoint was still returning an empty array. To fix this, I created a new controller function for that specific route, in which it would return an error specifying to enter a parameter. It was not this easy however, because it would not work at first, until I figured out I had to move this route to the top of the list even though this url endpoint should not have been caught by any other route preceeding it. Sometimes it's as simple as moving something up in your code, which both of these issues involved!
+
+I'm grateful that finding solutions to these issues became learning experiences, and that these will be easy fixes in the future!
 
 ## Resources
 
