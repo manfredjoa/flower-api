@@ -40,6 +40,27 @@ Welcome to my Plants API!
 
 ## CRUD Functionality
 
+### GET Endpoints
+
+#### Families
+
+- **_/api/families_** - Returns a list of all families
+- **_/api/families/:familyName_** - Returns a family by familyName (first letter is not case sensitive and can be entered either uppercase or lowercase)
+- **_/api/families/id/:id_** - Returns a family by id
+
+#### Genera
+
+- **_/api/genera_** - Returns a list of all genera
+- **_/api/genera/:genusName_** - Returns a genus by genusName (first letter is not case sensitive and can be entered either uppercase or lowercase)
+- **_/api/genera/id/:id_** - Returns a genus by id
+
+#### Species
+
+- **_/api/species_** - Returns a list of all species
+- **_/api/species/:speciesName_** - Returns a species by speciesName (first letter is not case sensitive and can be entered either uppercase or lowercase)
+- **_/api/species/common-name/:commonName_** - Returns a species by commonName
+- **_/api/species/id/:id_** - Returns a species by id
+
 ## Installation
 
 ## Resources
