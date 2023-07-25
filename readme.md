@@ -8,7 +8,7 @@ Within this API, each of the species belong to a genus, which belongs to a famil
 
 ### How to Use
 
-Please refer to the CRUD Functionality section to see more specific endpoints.
+**_Please refer to the CRUD Functionality section to see more specific endpoints._**
 
 To see all families:
 
@@ -135,11 +135,37 @@ The database for this project is built using MongoDB and Mongoose, and contains 
 
 ## Installation
 
+If you would like to use this API for your own project:
+
+- Clone this repository
+- Initialize npm in your terminal
+
+```
+npm init -y
+```
+
+- Seed data to locally create the plants database
+
+```
+npm run seed
+```
+
+- Start server
+
+```
+npm start
+```
+
+- To start server in development mode, use this instead
+
+```
+npm run dev
+```
+
+- The API can then be accessed using the following base url in combination with an endpoint
+
+```
+http://localhost:3000/api
+```
+
 ## Resources
-
-````
-
-```
-
-```
-````
