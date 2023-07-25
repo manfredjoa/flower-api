@@ -30,9 +30,9 @@ To see all species:
 https://manfredjoa-plants-api-56ca2fc58166.herokuapp.com/api/species
 ```
 
-<!-- ![Species name Pachystachys coccinea, with genus name Pachystachys](<Screenshot 2023-07-25 at 3.02.41 PM.png>)
+![Species name Pachystachys coccinea, with genus name Pachystachys](<Screenshot 2023-07-25 at 3.02.41 PM.png>)
 ![Genus name Pachystachys listing Pachystachys coccinea as one of its species, with family name Acanthaceae](<Screenshot 2023-07-25 at 3.02.05 PM.png>)
-![Family name Acanthaceae listing Pachystachys as one of its genera](<Screenshot 2023-07-25 at 3.04.24 PM.png>) -->
+![Family name Acanthaceae listing Pachystachys as one of its genera](<Screenshot 2023-07-25 at 3.04.24 PM.png>)
 
 ## Data Model
 
