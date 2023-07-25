@@ -40,26 +40,70 @@ Welcome to my Plants API!
 
 ## CRUD Functionality
 
-### GET Endpoints
+### Families Endpoints
 
-#### Families
+#### GET
 
 - **_/api/families_** - Returns a list of all families
 - **_/api/families/:familyName_** - Returns a family by familyName (first letter is not case sensitive and can be entered either uppercase or lowercase)
 - **_/api/families/id/:id_** - Returns a family by id
 
-#### Genera
+#### POST
+
+- **_/api/families/_** - Creates a new family
+
+#### PUT
+
+- **_/api/families/edit/:familyName_** - Updates a family by familyName
+
+#### DELETE
+
+- **_/api/families/delete/:familyName_** - Deletes a family by familyName
+
+---
+
+### Genera Endpoints
+
+#### GET
 
 - **_/api/genera_** - Returns a list of all genera
 - **_/api/genera/:genusName_** - Returns a genus by genusName (first letter is not case sensitive and can be entered either uppercase or lowercase)
 - **_/api/genera/id/:id_** - Returns a genus by id
 
-#### Species
+#### POST
+
+- **_/api/genera/_** - Creates a new genus
+
+#### PUT
+
+- **_/api/genera/edit/:genusName_** - Updates a genus by genusName
+
+#### DELETE
+
+- **_/api/genera/delete/:genusName_** - Deletes a genus by genusName
+
+---
+
+### Species Endpoints
+
+#### GET
 
 - **_/api/species_** - Returns a list of all species
 - **_/api/species/:speciesName_** - Returns a species by speciesName (first letter is not case sensitive and can be entered either uppercase or lowercase)
 - **_/api/species/common-name/:commonName_** - Returns a species by commonName
 - **_/api/species/id/:id_** - Returns a species by id
+
+#### POST
+
+- **_/api/species/_** - Creates a new species
+
+#### PUT
+
+- **_/api/species/edit/:speciesName_** - Updates a species by speciesName
+
+#### DELETE
+
+- **_/api/species/delete/:speciesName_** - Deletes a species by speciesName
 
 ## Installation
 
