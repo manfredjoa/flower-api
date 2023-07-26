@@ -194,6 +194,7 @@ http://localhost:3000/api
 - Pagination
 - Creating a function where when a species or genus is created, its name is also pushed into its parent's array that lists its genera or species. For example, if species Pachystachys somename is created, the data showing the Pachystachys genus will include Pachystachys somename in its array of species. If genus somegenus is created and belongs to the Acanthaceae family, the data showing the Acanthaceae family will include somegenus in its array of genera.
 - Creating a function where you don't have to worry about case sensitivity for the whole entire word, not just the first letter. This is especially important for the species get request by common name, in which there is variance in the capitalization of the strings, whereas the family, genus, and species names are all consistent in that the first letter is capitalized. I am aware however, that this can all be avoided by just having the common name data seeded in a consistent format.
+- Possibly having all genera populated within the families and all the species populated within the genera. I feel like this could look overwhelming and not the most organized, but it could serve as a "main page" for the API, with the endpoints being used to categorize the information, in contrast to what I have now which are 3 main but separate get endpoints.
 
 ## Thoughts
 
